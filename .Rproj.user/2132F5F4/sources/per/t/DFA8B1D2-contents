@@ -34,7 +34,7 @@ boxplot(crime_df_rates_property[,c(2:ncol(crime_df_rates_property))], main="prop
 plt = ggplot(crime_df_rates_melted, aes(Year,value,color=variable)) + geom_line(lwd=1)  + labs(title = "Crime Rate Comparison",
          subtitle = "Over the period of 1996 t0 2016",
          caption = "Data source: HW 5",
-         color = "Crimes Legend") 
+         color = "Crimes Legend") + scale_x_continuous(breaks=seq(1997, 2016, 1))
 
 plt = plt+ theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
                                   panel.background = element_blank(),
@@ -42,8 +42,10 @@ plt = plt+ theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.min
                               panel.border = element_blank())
 
 plt = plt+theme(axis.text.y = element_text(angle = 90,size = 13),
-                axis.text.x = element_text(size = 13)) 
-    
+                axis.text.x = element_text(size = 13,angle = 90)) 
+
+
+
 
 plt = plt + theme(plot.title = element_text(color = "red", size = 14, face = "bold"),
   plot.subtitle = element_text(color = "blue"),

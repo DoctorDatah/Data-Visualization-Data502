@@ -1,0 +1,893 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 10500.18.0404.1406                               -->
+<workbook original-version='10.5' source-build='10.5.3 (10500.18.0404.1406)' source-platform='win' version='10.5' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='16tbl02 (FBI Crime Geographically)' inline='true' name='federated.0qxz4k501brnsh11y5t2u0yubda8' version='10.5'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='FBI Crime Geographically' name='excel-direct.152cctz03twgwr18iiaur11qtx2v'>
+            <connection class='excel-direct' cleaning='yes' compat='no' dataRefreshTime='' filename='C:/Users/Malik/Documents/GitHub/Data-Visualization-Data502/Dataset/FBI Crime Geographically.xls' interpretationMode='1' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <relation connection='excel-direct.152cctz03twgwr18iiaur11qtx2v' name='16tbl02' table='[&apos;16tbl02$&apos;]' type='table'>
+          <columns gridOrigin='A1:W214:no:A1:W214:2' header='no' lost='0' outcome='1' processed='4219'>
+            <column datatype='string' name='Area' ordinal='0' />
+            <column datatype='date' date-parse-format='yyyy' name='Year' ordinal='1' />
+            <column datatype='integer' name='Population2' ordinal='2' />
+            <column datatype='real' name='Violent crime3' ordinal='3' />
+            <column datatype='real' name='Violent crime3 Rate per  100,000' ordinal='4' />
+            <column datatype='real' name='Murder and  nonnegligent  manslaughter' ordinal='5' />
+            <column datatype='real' name='Murder and  nonnegligent  manslaughter Rate per  100,000' ordinal='6' />
+            <column datatype='real' name='Rape (revised definition)4' ordinal='7' />
+            <column datatype='real' name='Rape (revised definition)4 Rate per  100,000' ordinal='8' />
+            <column datatype='real' name='Rape (legacy definition)5' ordinal='9' />
+            <column datatype='real' name='Rape (legacy definition)5 Rate per  100,000' ordinal='10' />
+            <column datatype='real' name='Robbery' ordinal='11' />
+            <column datatype='real' name='Robbery Rate per  100,000' ordinal='12' />
+            <column datatype='real' name='Aggravated assault' ordinal='13' />
+            <column datatype='real' name='Aggravated assault Rate per  100,000' ordinal='14' />
+            <column datatype='real' name='Property crime' ordinal='15' />
+            <column datatype='real' name='Property crime Rate per  100,000' ordinal='16' />
+            <column datatype='real' name='Burglary' ordinal='17' />
+            <column datatype='real' name='Burglary Rate per  100,000' ordinal='18' />
+            <column datatype='real' name='Larceny-theft' ordinal='19' />
+            <column datatype='real' name='Larceny-theft Rate per  100,000' ordinal='20' />
+            <column datatype='real' name='Motor vehicle theft' ordinal='21' />
+            <column datatype='real' name='Motor vehicle theft Rate per  100,000' ordinal='22' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>2</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:W214:no:A1:W214:2&quot;</attribute>
+              <attribute datatype='integer' name='lost'>0</attribute>
+              <attribute datatype='integer' name='outcome'>1</attribute>
+              <attribute datatype='integer' name='processed'>4219</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Area</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Area]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Area</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Year]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population2</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Population2]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Population2</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Violent crime3</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Violent crime3]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Violent crime3</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Violent crime3 Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Violent crime3 Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Violent crime3 Rate per  100,000</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Murder and  nonnegligent  manslaughter</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Murder and  nonnegligent  manslaughter]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Murder and  nonnegligent  manslaughter</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Murder and  nonnegligent  manslaughter Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Murder and  nonnegligent  manslaughter Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Murder and  nonnegligent  manslaughter Rate per  100,000</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rape (revised definition)4</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Rape (revised definition)4]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Rape (revised definition)4</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rape (revised definition)4 Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Rape (revised definition)4 Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Rape (revised definition)4 Rate per  100,000</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rape (legacy definition)5</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Rape (legacy definition)5]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Rape (legacy definition)5</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rape (legacy definition)5 Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Rape (legacy definition)5 Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Rape (legacy definition)5 Rate per  100,000</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Robbery</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Robbery]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Robbery</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Robbery Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Robbery Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Robbery Rate per  100,000</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Aggravated assault</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Aggravated assault]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Aggravated assault</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Aggravated assault Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Aggravated assault Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Aggravated assault Rate per  100,000</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Property crime</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Property crime]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Property crime</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Property crime Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Property crime Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Property crime Rate per  100,000</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Burglary</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Burglary]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Burglary</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Burglary Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Burglary Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Burglary Rate per  100,000</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Larceny-theft</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Larceny-theft]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Larceny-theft</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Larceny-theft Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Larceny-theft Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Larceny-theft Rate per  100,000</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Motor vehicle theft</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Motor vehicle theft]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Motor vehicle theft</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Motor vehicle theft Rate per  100,000</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Motor vehicle theft Rate per  100,000]</local-name>
+            <parent-name>[16tbl02]</parent-name>
+            <remote-alias>Motor vehicle theft Rate per  100,000</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <column datatype='real' name='[Aggravated assault Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Aggravated assault]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Area]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+      <column datatype='real' name='[Burglary Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Burglary]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Larceny-theft Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Larceny-theft]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Motor vehicle theft Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Motor vehicle theft]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Murder and  nonnegligent  manslaughter Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Murder and  nonnegligent  manslaughter]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column datatype='integer' name='[Population2]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Property crime Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Property crime]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Rape (legacy definition)5 Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Rape (legacy definition)5]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Rape (revised definition)4 Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Rape (revised definition)4]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Robbery Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Robbery]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Violent crime3 Rate per  100,000]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Violent crime3]' role='measure' type='quantitative' />
+      <column-instance column='[Aggravated assault Rate per  100,000]' derivation='Sum' name='[sum:Aggravated assault Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Aggravated assault]' derivation='Sum' name='[sum:Aggravated assault:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Burglary Rate per  100,000]' derivation='Sum' name='[sum:Burglary Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Burglary]' derivation='Sum' name='[sum:Burglary:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Larceny-theft Rate per  100,000]' derivation='Sum' name='[sum:Larceny-theft Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Larceny-theft]' derivation='Sum' name='[sum:Larceny-theft:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Motor vehicle theft Rate per  100,000]' derivation='Sum' name='[sum:Motor vehicle theft Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Motor vehicle theft]' derivation='Sum' name='[sum:Motor vehicle theft:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Murder and  nonnegligent  manslaughter Rate per  100,000]' derivation='Sum' name='[sum:Murder and  nonnegligent  manslaughter Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Murder and  nonnegligent  manslaughter]' derivation='Sum' name='[sum:Murder and  nonnegligent  manslaughter:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Number of Records]' derivation='Sum' name='[sum:Number of Records:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Population2]' derivation='Sum' name='[sum:Population2:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Property crime Rate per  100,000]' derivation='Sum' name='[sum:Property crime Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Property crime]' derivation='Sum' name='[sum:Property crime:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Rape (legacy definition)5 Rate per  100,000]' derivation='Sum' name='[sum:Rape (legacy definition)5 Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Rape (legacy definition)5]' derivation='Sum' name='[sum:Rape (legacy definition)5:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Rape (revised definition)4 Rate per  100,000]' derivation='Sum' name='[sum:Rape (revised definition)4 Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Rape (revised definition)4]' derivation='Sum' name='[sum:Rape (revised definition)4:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Robbery Rate per  100,000]' derivation='Sum' name='[sum:Robbery Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Robbery]' derivation='Sum' name='[sum:Robbery:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Violent crime3 Rate per  100,000]' derivation='Sum' name='[sum:Violent crime3 Rate per  100,000:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Violent crime3]' derivation='Sum' name='[sum:Violent crime3:qk]' pivot='key' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.141985' measure-ordering='alphabetic' measure-percentage='0.858015' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Murder and  nonnegligent  manslaughter:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Aggravated assault:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Violent crime3:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Larceny-theft:qk]&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Property crime:qk]&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Murder and  nonnegligent  manslaughter Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Larceny-theft Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Robbery:qk]&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Aggravated assault Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Violent crime3 Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Rape (revised definition)4:qk]&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Motor vehicle theft:qk]&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Property crime Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Rape (legacy definition)5:qk]&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Rape (revised definition)4 Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Robbery Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Number of Records:qk]&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Motor vehicle theft Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Burglary:qk]&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Rape (legacy definition)5 Rate per  100,000:qk]&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Population2:qk]&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Burglary Rate per  100,000:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Crime In Geographical Location'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='16tbl02 (FBI Crime Geographically)' name='federated.0qxz4k501brnsh11y5t2u0yubda8' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.0qxz4k501brnsh11y5t2u0yubda8'>
+            <column datatype='real' name='[Aggravated assault Rate per  100,000]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Area]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+            <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Aggravated assault Rate per  100,000]' derivation='Sum' name='[sum:Aggravated assault Rate per  100,000:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0qxz4k501brnsh11y5t2u0yubda8].[:Measure Names]'>
+            <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0qxz4k501brnsh11y5t2u0yubda8].[sum:Aggravated assault Rate per  100,000:qk]&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0qxz4k501brnsh11y5t2u0yubda8].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0qxz4k501brnsh11y5t2u0yubda8].[Longitude (generated)]' field-type='quantitative' max='-4155487.6706839278' min='-20757696.250691686' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0qxz4k501brnsh11y5t2u0yubda8].[Latitude (generated)]' field-type='quantitative' max='11972409.912528405' min='1382726.5623112302' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.0qxz4k501brnsh11y5t2u0yubda8].[:Measure Names]' value='160' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.0qxz4k501brnsh11y5t2u0yubda8].[Multiple Values]' palette='blue_teal_10_0' type='interpolated' />
+          </style-rule>
+          <style-rule element='map-layer'>
+            <format attr='enabled' id='tab_base' value='true' />
+            <format attr='enabled' id='um_lcover' value='true' />
+            <format attr='enabled' id='tab_coastline' value='false' />
+            <format attr='enabled' id='pp2_line' value='false' />
+            <format attr='enabled' id='light_adm0_bnd' value='false' />
+            <format attr='enabled' id='light_adm0_lbl' value='false' />
+            <format attr='enabled' id='um_adm0_bnd' value='true' />
+            <format attr='enabled' id='um_adm0_lbl' value='true' />
+            <format attr='enabled' id='light_pp2_statebounds' value='false' />
+            <format attr='enabled' id='light_pp2_statelabels' value='false' />
+            <format attr='enabled' id='pp2_adminlabels' value='false' />
+            <format attr='enabled' id='pp2_statebounds' value='true' />
+            <format attr='enabled' id='pp2_statelabels' value='true' />
+            <format attr='enabled' id='countybounds' value='false' />
+            <format attr='enabled' id='countylabels' value='false' />
+            <format attr='enabled' id='zipbounds' value='false' />
+            <format attr='enabled' id='ziplabels' value='false' />
+            <format attr='enabled' id='tab_areabounds' value='false' />
+            <format attr='enabled' id='tab_arealabels' value='false' />
+            <format attr='enabled' id='tab_msabounds' value='false' />
+            <format attr='enabled' id='tab_msalabels' value='false' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Multipolygon' />
+            <encodings>
+              <color column='[federated.0qxz4k501brnsh11y5t2u0yubda8].[Multiple Values]' />
+              <lod column='[federated.0qxz4k501brnsh11y5t2u0yubda8].[none:Area:nk]' />
+              <geometry column='[federated.0qxz4k501brnsh11y5t2u0yubda8].[Geometry (generated)]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0qxz4k501brnsh11y5t2u0yubda8].[:Measure Names] * [federated.0qxz4k501brnsh11y5t2u0yubda8].[Latitude (generated)])</rows>
+        <cols>[federated.0qxz4k501brnsh11y5t2u0yubda8].[Longitude (generated)]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='worksheet' maximized='true' name='Crime In Geographical Location'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0qxz4k501brnsh11y5t2u0yubda8].[:Measure Names]' show-morefewerbutton='false' type='filter' />
+            <card pane-specification-id='0' param='[federated.0qxz4k501brnsh11y5t2u0yubda8].[Multiple Values]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0qxz4k501brnsh11y5t2u0yubda8].[:Measure Names]</field>
+            <field>[federated.0qxz4k501brnsh11y5t2u0yubda8].[Multiple Values]</field>
+          </color-one-way>
+        </highlight>
+        <default-map-tool-selection tool='2' />
+      </viewpoint>
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Crime In Geographical Location' width='192'>
+      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
+      1+cAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
