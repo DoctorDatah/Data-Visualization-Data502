@@ -1,0 +1,3301 @@
+"","State","variable","value"
+"1","Alabama","Cases",127616
+"2","Alaska","Cases",6109
+"3","Arizona","Cases",202375
+"4","Arkansas","Cases",61497
+"5","California","Cases",716628
+"6","Colorado","Cases",58118
+"7","Connecticut","Cases",53006
+"8","Delaware","Cases",17535
+"9","District of Columbia","Cases",14049
+"10","Florida","Cases",631032
+"11","Georgia","Cases",256544
+"12","Guam","Cases",2416
+"13","Hawaii","Cases",8628
+"14","Idaho","Cases",32703
+"15","Illinois","Cases",239115
+"16","Indiana","Cases",96988
+"17","Iowa","Cases",65846
+"18","Kansas","Cases",43491
+"19","Kentucky","Cases",51762
+"20","Louisiana","Cases",149583
+"21","Maine","Cases",4548
+"22","Maryland","Cases",109353
+"23","Massachusetts","Cases",128888
+"24","Michigan","Cases",113969
+"25","Minnesota","Cases",76404
+"26","Mississippi","Cases",83584
+"27","Missouri","Cases",87414
+"28","Montana","Cases",7526
+"29","Nebraska","Cases",34574
+"30","Nevada","Cases",69708
+"31","New Hampshire","Cases",7297
+"32","New Jersey","Cases",194070
+"33","New Mexico","Cases",25460
+"34","New York","Cases",440237
+"35","North Carolina","Cases",169966
+"36","North Dakota","Cases",12004
+"37","Northern Mariana Islands","Cases",57
+"38","Ohio","Cases",124610
+"39","Oklahoma","Cases",59399
+"40","Oregon","Cases",26958
+"41","Pennsylvania","Cases",139591
+"42","Puerto Rico","Cases",33421
+"43","Rhode Island","Cases",22002
+"44","South Carolina","Cases",119846
+"45","South Dakota","Cases",13749
+"46","Tennessee","Cases",153274
+"47","Texas","Cases",645534
+"48","Utah","Cases",52505
+"49","Vermont","Cases",1635
+"50","Virgin Islands","Cases",1143
+"51","Virginia","Cases",121615
+"52","Washington","Cases",78061
+"53","West Virginia","Cases",10507
+"54","Wisconsin","Cases",81688
+"55","Wyoming","Cases",3866
+"56","Alabama","Cases",128239
+"57","Alaska","Cases",6181
+"58","Arizona","Cases",202898
+"59","Arkansas","Cases",62112
+"60","California","Cases",722035
+"61","Colorado","Cases",58392
+"62","Connecticut","Cases",53108
+"63","Delaware","Cases",17549
+"64","District of Columbia","Cases",14077
+"65","Florida","Cases",633434
+"66","Georgia","Cases",258482
+"67","Guam","Cases",2463
+"68","Hawaii","Cases",8966
+"69","Idaho","Cases",33059
+"70","Illinois","Cases",241282
+"71","Indiana","Cases",97853
+"72","Iowa","Cases",66463
+"73","Kansas","Cases",44529
+"74","Kentucky","Cases",52704
+"75","Louisiana","Cases",150734
+"76","Maine","Cases",4567
+"77","Maryland","Cases",109808
+"78","Massachusetts","Cases",121131
+"79","Michigan","Cases",114603
+"80","Minnesota","Cases",77137
+"81","Mississippi","Cases",84365
+"82","Missouri","Cases",88974
+"83","Montana","Cases",7715
+"84","Nebraska","Cases",34995
+"85","Nevada","Cases",69927
+"86","New Hampshire","Cases",7309
+"87","New Jersey","Cases",194378
+"88","New Mexico","Cases",25612
+"89","New York","Cases",440947
+"90","North Carolina","Cases",171140
+"91","North Dakota","Cases",12271
+"92","Northern Mariana Islands","Cases",57
+"93","Ohio","Cases",125767
+"94","Oklahoma","Cases",60118
+"95","Oregon","Cases",27085
+"96","Pennsylvania","Cases",140577
+"97","Puerto Rico","Cases",34003
+"98","Rhode Island","Cases",22078
+"99","South Carolina","Cases",120503
+"100","South Dakota","Cases",14003
+"101","Tennessee","Cases",154833
+"102","Texas","Cases",649844
+"103","Utah","Cases",52950
+"104","Vermont","Cases",1637
+"105","Virgin Islands","Cases",1144
+"106","Virginia","Cases",122542
+"107","Washington","Cases",78554
+"108","West Virginia","Cases",10642
+"109","Wisconsin","Cases",82261
+"110","Wyoming","Cases",3911
+"111","Alabama","Cases",129285
+"112","Alaska","Cases",6287
+"113","Arizona","Cases",203964
+"114","Arkansas","Cases",63504
+"115","California","Cases",727398
+"116","Colorado","Cases",58680
+"117","Connecticut","Cases",53209
+"118","Delaware","Cases",17653
+"119","District of Columbia","Cases",14135
+"120","Florida","Cases",637005
+"121","Georgia","Cases",261056
+"122","Guam","Cases",2529
+"123","Hawaii","Cases",9177
+"124","Idaho","Cases",33361
+"125","Illinois","Cases",242715
+"126","Indiana","Cases",98971
+"127","Iowa","Cases",67693
+"128","Kansas","Cases",44755
+"129","Kentucky","Cases",54067
+"130","Louisiana","Cases",151547
+"131","Maine","Cases",4617
+"132","Maryland","Cases",110504
+"133","Massachusetts","Cases",121546
+"134","Michigan","Cases",115393
+"135","Minnesota","Cases",78175
+"136","Mississippi","Cases",85116
+"137","Missouri","Cases",90392
+"138","Montana","Cases",7903
+"139","Nebraska","Cases",35469
+"140","Nevada","Cases",70319
+"141","New Hampshire","Cases",7347
+"142","New Jersey","Cases",194756
+"143","New Mexico","Cases",25812
+"144","New York","Cases",441835
+"145","North Carolina","Cases",172791
+"146","North Dakota","Cases",12633
+"147","Northern Mariana Islands","Cases",57
+"148","Ohio","Cases",127112
+"149","Oklahoma","Cases",61027
+"150","Oregon","Cases",27356
+"151","Pennsylvania","Cases",141578
+"152","Puerto Rico","Cases",34198
+"153","Rhode Island","Cases",22143
+"154","South Carolina","Cases",121696
+"155","South Dakota","Cases",14337
+"156","Tennessee","Cases",157028
+"157","Texas","Cases",653321
+"158","Utah","Cases",53412
+"159","Vermont","Cases",1637
+"160","Virgin Islands","Cases",1150
+"161","Virginia","Cases",123668
+"162","Washington","Cases",79120
+"163","West Virginia","Cases",10845
+"164","Wisconsin","Cases",83119
+"165","Wyoming","Cases",3939
+"166","Alabama","Cases",130393
+"167","Alaska","Cases",6416
+"168","Arizona","Cases",204686
+"169","Arkansas","Cases",64678
+"170","California","Cases",732691
+"171","Colorado","Cases",59021
+"172","Connecticut","Cases",53365
+"173","Delaware","Cases",17752
+"174","District of Columbia","Cases",14186
+"175","Florida","Cases",640203
+"176","Georgia","Cases",263047
+"177","Guam","Cases",2588
+"178","Hawaii","Cases",9448
+"179","Idaho","Cases",33628
+"180","Illinois","Cases",248253
+"181","Indiana","Cases",100011
+"182","Iowa","Cases",68757
+"183","Kansas","Cases",46049
+"184","Kentucky","Cases",55500
+"185","Louisiana","Cases",152369
+"186","Maine","Cases",4632
+"187","Maryland","Cases",111332
+"188","Massachusetts","Cases",121758
+"189","Michigan","Cases",116470
+"190","Minnesota","Cases",79018
+"191","Mississippi","Cases",85939
+"192","Missouri","Cases",91994
+"193","Montana","Cases",8046
+"194","Nebraska","Cases",35661
+"195","Nevada","Cases",70783
+"196","New Hampshire","Cases",7368
+"197","New Jersey","Cases",195205
+"198","New Mexico","Cases",25902
+"199","New York","Cases",442698
+"200","North Carolina","Cases",174848
+"201","North Dakota","Cases",12977
+"202","Northern Mariana Islands","Cases",57
+"203","Ohio","Cases",128444
+"204","Oklahoma","Cases",62040
+"205","Oregon","Cases",27605
+"206","Pennsylvania","Cases",142537
+"207","Puerto Rico","Cases",34241
+"208","Rhode Island","Cases",22243
+"209","South Carolina","Cases",123325
+"210","South Dakota","Cases",14596
+"211","Tennessee","Cases",158120
+"212","Texas","Cases",658789
+"213","Utah","Cases",53940
+"214","Vermont","Cases",1642
+"215","Virgin Islands","Cases",1150
+"216","Virginia","Cases",124779
+"217","Washington","Cases",79721
+"218","West Virginia","Cases",11037
+"219","Wisconsin","Cases",84519
+"220","Wyoming","Cases",3989
+"221","Alabama","Cases",131803
+"222","Alaska","Cases",6514
+"223","Arizona","Cases",205518
+"224","Arkansas","Cases",65226
+"225","California","Cases",737073
+"226","Colorado","Cases",59362
+"227","Connecticut","Cases",53365
+"228","Delaware","Cases",17892
+"229","District of Columbia","Cases",14238
+"230","Florida","Cases",643859
+"231","Georgia","Cases",265215
+"232","Guam","Cases",2640
+"233","Hawaii","Cases",9667
+"234","Idaho","Cases",33884
+"235","Illinois","Cases",250882
+"236","Indiana","Cases",101094
+"237","Iowa","Cases",69690
+"238","Kansas","Cases",46051
+"239","Kentucky","Cases",56016
+"240","Louisiana","Cases",152369
+"241","Maine","Cases",4667
+"242","Maryland","Cases",112104
+"243","Massachusetts","Cases",122196
+"244","Michigan","Cases",117267
+"245","Minnesota","Cases",79932
+"246","Mississippi","Cases",86478
+"247","Missouri","Cases",93713
+"248","Montana","Cases",8178
+"249","Nebraska","Cases",35805
+"250","Nevada","Cases",71184
+"251","New Hampshire","Cases",7424
+"252","New Jersey","Cases",195530
+"253","New Mexico","Cases",26048
+"254","New York","Cases",443497
+"255","North Carolina","Cases",176124
+"256","North Dakota","Cases",13338
+"257","Northern Mariana Islands","Cases",58
+"258","Ohio","Cases",129785
+"259","Oklahoma","Cases",63187
+"260","Oregon","Cases",27857
+"261","Pennsylvania","Cases",143301
+"262","Puerto Rico","Cases",34492
+"263","Rhode Island","Cases",22243
+"264","South Carolina","Cases",124289
+"265","South Dakota","Cases",14889
+"266","Tennessee","Cases",159893
+"267","Texas","Cases",663246
+"268","Utah","Cases",54364
+"269","Vermont","Cases",1647
+"270","Virgin Islands","Cases",1167
+"271","Virginia","Cases",125727
+"272","Washington","Cases",79900
+"273","West Virginia","Cases",11289
+"274","Wisconsin","Cases",85517
+"275","Wyoming","Cases",4006
+"276","Alabama","Cases",132314
+"277","Alaska","Cases",6603
+"278","Arizona","Cases",205772
+"279","Arkansas","Cases",65924
+"280","California","Cases",740233
+"281","Colorado","Cases",59626
+"282","Connecticut","Cases",53365
+"283","Delaware","Cases",18043
+"284","District of Columbia","Cases",14279
+"285","Florida","Cases",646423
+"286","Georgia","Cases",266707
+"287","Guam","Cases",2588
+"288","Hawaii","Cases",9829
+"289","Idaho","Cases",34053
+"290","Illinois","Cases",252306
+"291","Indiana","Cases",101937
+"292","Iowa","Cases",70210
+"293","Kansas","Cases",46151
+"294","Kentucky","Cases",56172
+"295","Louisiana","Cases",153764
+"296","Maine","Cases",4682
+"297","Maryland","Cases",112557
+"298","Massachusetts","Cases",122562
+"299","Michigan","Cases",117310
+"300","Minnesota","Cases",80639
+"301","Mississippi","Cases",86888
+"302","Missouri","Cases",94923
+"303","Montana","Cases",8272
+"304","Nebraska","Cases",35891
+"305","Nevada","Cases",71711
+"306","New Hampshire","Cases",7447
+"307","New Jersey","Cases",195841
+"308","New Mexico","Cases",26107
+"309","New York","Cases",444226
+"310","North Carolina","Cases",177141
+"311","North Dakota","Cases",13635
+"312","Northern Mariana Islands","Cases",58
+"313","Ohio","Cases",130558
+"314","Oklahoma","Cases",63607
+"315","Oregon","Cases",28045
+"316","Pennsylvania","Cases",143902
+"317","Puerto Rico","Cases",34533
+"318","Rhode Island","Cases",22243
+"319","South Carolina","Cases",124952
+"320","South Dakota","Cases",15109
+"321","Tennessee","Cases",161589
+"322","Texas","Cases",665338
+"323","Utah","Cases",54660
+"324","Vermont","Cases",1648
+"325","Virgin Islands","Cases",1181
+"326","Virginia","Cases",126926
+"327","Washington","Cases",80369
+"328","West Virginia","Cases",11412
+"329","Wisconsin","Cases",86406
+"330","Wyoming","Cases",4032
+"331","Alabama","Cases",132973
+"332","Alaska","Cases",6637
+"333","Arizona","Cases",205971
+"334","Arkansas","Cases",66280
+"335","California","Cases",742689
+"336","Colorado","Cases",59823
+"337","Connecticut","Cases",53365
+"338","Delaware","Cases",18249
+"339","District of Columbia","Cases",14315
+"340","Florida","Cases",648261
+"341","Georgia","Cases",267238
+"342","Guam","Cases",2588
+"343","Hawaii","Cases",9933
+"344","Idaho","Cases",34153
+"345","Illinois","Cases",253649
+"346","Indiana","Cases",102527
+"347","Iowa","Cases",70537
+"348","Kansas","Cases",47409
+"349","Kentucky","Cases",56545
+"350","Louisiana","Cases",154073
+"351","Maine","Cases",4701
+"352","Maryland","Cases",113378
+"353","Massachusetts","Cases",122791
+"354","Michigan","Cases",118388
+"355","Minnesota","Cases",81277
+"356","Mississippi","Cases",87130
+"357","Missouri","Cases",95795
+"358","Montana","Cases",8340
+"359","Nebraska","Cases",35975
+"360","Nevada","Cases",72048
+"361","New Hampshire","Cases",7476
+"362","New Jersey","Cases",196173
+"363","New Mexico","Cases",26144
+"364","New York","Cases",444751
+"365","North Carolina","Cases",178212
+"366","North Dakota","Cases",13805
+"367","Northern Mariana Islands","Cases",59
+"368","Ohio","Cases",131336
+"369","Oklahoma","Cases",64220
+"370","Oregon","Cases",28191
+"371","Pennsylvania","Cases",144658
+"372","Puerto Rico","Cases",35375
+"373","Rhode Island","Cases",22243
+"374","South Carolina","Cases",125607
+"375","South Dakota","Cases",15300
+"376","Tennessee","Cases",162531
+"377","Texas","Cases",666209
+"378","Utah","Cases",55052
+"379","Vermont","Cases",1651
+"380","Virgin Islands","Cases",1190
+"381","Virginia","Cases",127571
+"382","Washington","Cases",80485
+"383","West Virginia","Cases",11575
+"384","Wisconsin","Cases",86981
+"385","Wyoming","Cases",4032
+"386","Alabama","Cases",133606
+"387","Alaska","Cases",6670
+"388","Arizona","Cases",206048
+"389","Arkansas","Cases",66757
+"390","California","Cases",746113
+"391","Colorado","Cases",60003
+"392","Connecticut","Cases",53782
+"393","Delaware","Cases",18308
+"394","District of Columbia","Cases",14362
+"395","Florida","Cases",650084
+"396","Georgia","Cases",268684
+"397","Guam","Cases",2682
+"398","Hawaii","Cases",10130
+"399","Idaho","Cases",34461
+"400","Illinois","Cases",255229
+"401","Indiana","Cases",102917
+"402","Iowa","Cases",71018
+"403","Kansas","Cases",47878
+"404","Kentucky","Cases",56877
+"405","Louisiana","Cases",154329
+"406","Maine","Cases",4713
+"407","Maryland","Cases",113734
+"408","Massachusetts","Cases",122962
+"409","Michigan","Cases",118984
+"410","Minnesota","Cases",81660
+"411","Mississippi","Cases",87379
+"412","Missouri","Cases",97044
+"413","Montana","Cases",8409
+"414","Nebraska","Cases",36477
+"415","Nevada","Cases",72165
+"416","New Hampshire","Cases",7494
+"417","New Jersey","Cases",196450
+"418","New Mexico","Cases",26181
+"419","New York","Cases",445308
+"420","North Carolina","Cases",179150
+"421","North Dakota","Cases",13876
+"422","Northern Mariana Islands","Cases",59
+"423","Ohio","Cases",131992
+"424","Oklahoma","Cases",65053
+"425","Oregon","Cases",28355
+"426","Pennsylvania","Cases",145191
+"427","Puerto Rico","Cases",35504
+"428","Rhode Island","Cases",22592
+"429","South Carolina","Cases",125908
+"430","South Dakota","Cases",15403
+"431","Tennessee","Cases",163180
+"432","Texas","Cases",670427
+"433","Utah","Cases",55424
+"434","Vermont","Cases",1654
+"435","Virgin Islands","Cases",1191
+"436","Virginia","Cases",128407
+"437","Washington","Cases",81048
+"438","West Virginia","Cases",11661
+"439","Wisconsin","Cases",87730
+"440","Wyoming","Cases",4103
+"441","Alabama","Cases",134417
+"442","Alaska","Cases",6735
+"443","Arizona","Cases",206548
+"444","Arkansas","Cases",67255
+"445","California","Cases",749196
+"446","Colorado","Cases",60291
+"447","Connecticut","Cases",53871
+"448","Delaware","Cases",18308
+"449","District of Columbia","Cases",14387
+"450","Florida","Cases",652140
+"451","Georgia","Cases",270624
+"452","Guam","Cases",2727
+"453","Hawaii","Cases",10228
+"454","Idaho","Cases",34707
+"455","Illinois","Cases",256614
+"456","Indiana","Cases",103641
+"457","Iowa","Cases",71594
+"458","Kansas","Cases",48389
+"459","Kentucky","Cases",57518
+"460","Louisiana","Cases",155890
+"461","Maine","Cases",4734
+"462","Maryland","Cases",114070
+"463","Massachusetts","Cases",123143
+"464","Michigan","Cases",119952
+"465","Minnesota","Cases",81920
+"466","Mississippi","Cases",87805
+"467","Missouri","Cases",98446
+"468","Montana","Cases",8499
+"469","Nebraska","Cases",36917
+"470","Nevada","Cases",72317
+"471","New Hampshire","Cases",7517
+"472","New Jersey","Cases",196779
+"473","New Mexico","Cases",26268
+"474","New York","Cases",445881
+"475","North Carolina","Cases",180061
+"476","North Dakota","Cases",14114
+"477","Northern Mariana Islands","Cases",59
+"478","Ohio","Cases",132965
+"479","Oklahoma","Cases",65929
+"480","Oregon","Cases",28474
+"481","Pennsylvania","Cases",146058
+"482","Puerto Rico","Cases",35507
+"483","Rhode Island","Cases",22676
+"484","South Carolina","Cases",126213
+"485","South Dakota","Cases",15571
+"486","Tennessee","Cases",164032
+"487","Texas","Cases",675149
+"488","Utah","Cases",55730
+"489","Vermont","Cases",1656
+"490","Virgin Islands","Cases",1197
+"491","Virginia","Cases",129289
+"492","Washington","Cases",81528
+"493","West Virginia","Cases",11808
+"494","Wisconsin","Cases",88643
+"495","Wyoming","Cases",4151
+"496","Alabama","Cases",135565
+"497","Alaska","Cases",6860
+"498","Arizona","Cases",207002
+"499","Arkansas","Cases",67803
+"500","California","Cases",753017
+"501","Colorado","Cases",60576
+"502","Connecticut","Cases",54093
+"503","Delaware","Cases",18466
+"504","District of Columbia","Cases",14412
+"505","Florida","Cases",654723
+"506","Georgia","Cases",272588
+"507","Guam","Cases",2815
+"508","Hawaii","Cases",10397
+"509","Idaho","Cases",35027
+"510","Illinois","Cases",258573
+"511","Indiana","Cases",104429
+"512","Iowa","Cases",72548
+"513","Kansas","Cases",48443
+"514","Kentucky","Cases",58452
+"515","Louisiana","Cases",156354
+"516","Maine","Cases",4760
+"517","Maryland","Cases",114574
+"518","Massachusetts","Cases",123546
+"519","Michigan","Cases",120896
+"520","Minnesota","Cases",82301
+"521","Mississippi","Cases",88322
+"522","Missouri","Cases",99677
+"523","Montana","Cases",8694
+"524","Nebraska","Cases",37373
+"525","Nevada","Cases",72620
+"526","New Hampshire","Cases",7573
+"527","New Jersey","Cases",197203
+"528","New Mexico","Cases",26429
+"529","New York","Cases",446637
+"530","North Carolina","Cases",181335
+"531","North Dakota","Cases",14446
+"532","Northern Mariana Islands","Cases",59
+"533","Ohio","Cases",134086
+"534","Oklahoma","Cases",66700
+"535","Oregon","Cases",28661
+"536","Pennsylvania","Cases",146735
+"537","Puerto Rico","Cases",36279
+"538","Rhode Island","Cases",22782
+"539","South Carolina","Cases",126592
+"540","South Dakota","Cases",15834
+"541","Tennessee","Cases",165911
+"542","Texas","Cases",677888
+"543","Utah","Cases",56182
+"544","Vermont","Cases",1661
+"545","Virgin Islands","Cases",1201
+"546","Virginia","Cases",130525
+"547","Washington","Cases",82125
+"548","West Virginia","Cases",12017
+"549","Wisconsin","Cases",90232
+"550","Wyoming","Cases",4199
+"551","Alabama","Cases",136703
+"552","Alaska","Cases",6968
+"553","Arizona","Cases",207525
+"554","Arkansas","Cases",68987
+"555","California","Cases",757125
+"556","Colorado","Cases",60881
+"557","Connecticut","Cases",54326
+"558","Delaware","Cases",18559
+"559","District of Columbia","Cases",14493
+"560","Florida","Cases",658373
+"561","Georgia","Cases",274242
+"562","Guam","Cases",2832
+"563","Hawaii","Cases",10567
+"564","Idaho","Cases",35354
+"565","Illinois","Cases",260949
+"566","Indiana","Cases",105703
+"567","Iowa","Cases",73399
+"568","Kansas","Cases",49393
+"569","Kentucky","Cases",59349
+"570","Louisiana","Cases",157109
+"571","Maine","Cases",4792
+"572","Maryland","Cases",115217
+"573","Massachusetts","Cases",123986
+"574","Michigan","Cases",122319
+"575","Minnesota","Cases",82768
+"576","Mississippi","Cases",89175
+"577","Missouri","Cases",101285
+"578","Montana","Cases",8817
+"579","Nebraska","Cases",37841
+"580","Nevada","Cases",72886
+"581","New Hampshire","Cases",7620
+"582","New Jersey","Cases",197677
+"583","New Mexico","Cases",26563
+"584","New York","Cases",447498
+"585","North Carolina","Cases",182934
+"586","North Dakota","Cases",14687
+"587","Northern Mariana Islands","Cases",59
+"588","Ohio","Cases",135326
+"589","Oklahoma","Cases",67642
+"590","Oregon","Cases",28888
+"591","Pennsylvania","Cases",147744
+"592","Puerto Rico","Cases",36581
+"593","Rhode Island","Cases",22905
+"594","South Carolina","Cases",129046
+"595","South Dakota","Cases",16117
+"596","Tennessee","Cases",167263
+"597","Texas","Cases",683295
+"598","Utah","Cases",56789
+"599","Vermont","Cases",1668
+"600","Virgin Islands","Cases",1201
+"601","Virginia","Cases",131640
+"602","Washington","Cases",82590
+"603","West Virginia","Cases",12174
+"604","Wisconsin","Cases",91672
+"605","Wyoming","Cases",4264
+"606","Alabama","Cases",137646
+"607","Alaska","Cases",7074
+"608","Arizona","Cases",208128
+"609","Arkansas","Cases",69710
+"610","California","Cases",760581
+"611","Colorado","Cases",61311
+"612","Connecticut","Cases",54326
+"613","Delaware","Cases",18726
+"614","District of Columbia","Cases",14552
+"615","Florida","Cases",661563
+"616","Georgia","Cases",276319
+"617","Guam","Cases",2832
+"618","Hawaii","Cases",10696
+"619","Idaho","Cases",35588
+"620","Illinois","Cases",262957
+"621","Indiana","Cases",106777
+"622","Iowa","Cases",74204
+"623","Kansas","Cases",49398
+"624","Kentucky","Cases",60187
+"625","Louisiana","Cases",157109
+"626","Maine","Cases",4834
+"627","Maryland","Cases",115876
+"628","Massachusetts","Cases",124540
+"629","Michigan","Cases",123048
+"630","Minnesota","Cases",83640
+"631","Mississippi","Cases",89620
+"632","Missouri","Cases",103085
+"633","Montana","Cases",8946
+"634","Nebraska","Cases",38108
+"635","Nevada","Cases",73291
+"636","New Hampshire","Cases",7652
+"637","New Jersey","Cases",198126
+"638","New Mexico","Cases",26661
+"639","New York","Cases",448347
+"640","North Carolina","Cases",184305
+"641","North Dakota","Cases",15154
+"642","Northern Mariana Islands","Cases",60
+"643","Ohio","Cases",136568
+"644","Oklahoma","Cases",68659
+"645","Oregon","Cases",29156
+"646","Pennsylvania","Cases",148635
+"647","Puerto Rico","Cases",37092
+"648","Rhode Island","Cases",22905
+"649","South Carolina","Cases",129978
+"650","South Dakota","Cases",16437
+"651","Tennessee","Cases",168552
+"652","Texas","Cases",685921
+"653","Utah","Cases",57276
+"654","Vermont","Cases",1677
+"655","Virgin Islands","Cases",1220
+"656","Virginia","Cases",132940
+"657","Washington","Cases",82957
+"658","West Virginia","Cases",12521
+"659","Wisconsin","Cases",93102
+"660","Wyoming","Cases",4297
+"661","Alabama","Cases",138755
+"662","Alaska","Cases",7136
+"663","Arizona","Cases",208514
+"664","Arkansas","Cases",70219
+"665","California","Cases",763389
+"666","Colorado","Cases",61641
+"667","Connecticut","Cases",54326
+"668","Delaware","Cases",18849
+"669","District of Columbia","Cases",14592
+"670","Florida","Cases",663986
+"671","Georgia","Cases",277715
+"672","Guam","Cases",2832
+"673","Hawaii","Cases",10808
+"674","Idaho","Cases",35693
+"675","Illinois","Cases",264340
+"676","Indiana","Cases",108020
+"677","Iowa","Cases",74675
+"678","Kansas","Cases",49408
+"679","Kentucky","Cases",60607
+"680","Louisiana","Cases",158390
+"681","Maine","Cases",4863
+"682","Maryland","Cases",116600
+"683","Massachusetts","Cases",124826
+"684","Michigan","Cases",123075
+"685","Minnesota","Cases",84363
+"686","Mississippi","Cases",89874
+"687","Missouri","Cases",104603
+"688","Montana","Cases",9037
+"689","Nebraska","Cases",38188
+"690","Nevada","Cases",73648
+"691","New Hampshire","Cases",7696
+"692","New Jersey","Cases",198423
+"693","New Mexico","Cases",26761
+"694","New York","Cases",449072
+"695","North Carolina","Cases",185325
+"696","North Dakota","Cases",15580
+"697","Northern Mariana Islands","Cases",60
+"698","Ohio","Cases",137405
+"699","Oklahoma","Cases",69354
+"700","Oregon","Cases",29337
+"701","Pennsylvania","Cases",148635
+"702","Puerto Rico","Cases",37380
+"703","Rhode Island","Cases",22905
+"704","South Carolina","Cases",131864
+"705","South Dakota","Cases",16638
+"706","Tennessee","Cases",169310
+"707","Texas","Cases",689941
+"708","Utah","Cases",57892
+"709","Vermont","Cases",1684
+"710","Virgin Islands","Cases",1220
+"711","Virginia","Cases",133814
+"712","Washington","Cases",83177
+"713","West Virginia","Cases",12699
+"714","Wisconsin","Cases",94723
+"715","Wyoming","Cases",4346
+"716","Alabama","Cases",139459
+"717","Alaska","Cases",7213
+"718","Arizona","Cases",208726
+"719","Arkansas","Cases",70627
+"720","California","Cases",767062
+"721","Colorado","Cases",62032
+"722","Connecticut","Cases",54895
+"723","Delaware","Cases",18937
+"724","District of Columbia","Cases",14622
+"725","Florida","Cases",665722
+"726","Georgia","Cases",278699
+"727","Guam","Cases",2896
+"728","Hawaii","Cases",10887
+"729","Idaho","Cases",35984
+"730","Illinois","Cases",265869
+"731","Indiana","Cases",108755
+"732","Iowa","Cases",75069
+"733","Kansas","Cases",50871
+"734","Kentucky","Cases",61182
+"735","Louisiana","Cases",158882
+"736","Maine","Cases",4903
+"737","Maryland","Cases",117147
+"738","Massachusetts","Cases",125080
+"739","Michigan","Cases",124276
+"740","Minnesota","Cases",85001
+"741","Mississippi","Cases",90018
+"742","Missouri","Cases",106057
+"743","Montana","Cases",9164
+"744","Nebraska","Cases",38642
+"745","Nevada","Cases",73889
+"746","New Hampshire","Cases",7714
+"747","New Jersey","Cases",198757
+"748","New Mexico","Cases",26842
+"749","New York","Cases",449658
+"750","North Carolina","Cases",186447
+"751","North Dakota","Cases",15834
+"752","Northern Mariana Islands","Cases",61
+"753","Ohio","Cases",138484
+"754","Oklahoma","Cases",70223
+"755","Oregon","Cases",29488
+"756","Pennsylvania","Cases",150044
+"757","Puerto Rico","Cases",37750
+"758","Rhode Island","Cases",23130
+"759","South Carolina","Cases",132680
+"760","South Dakota","Cases",16801
+"761","Tennessee","Cases",171498
+"762","Texas","Cases",694547
+"763","Utah","Cases",58451
+"764","Vermont","Cases",1696
+"765","Virgin Islands","Cases",1221
+"766","Virginia","Cases",134571
+"767","Washington","Cases",83861
+"768","West Virginia","Cases",12820
+"769","Wisconsin","Cases",95564
+"770","Wyoming","Cases",4392
+"771","Alabama","Cases",140160
+"772","Alaska","Cases",7256
+"773","Arizona","Cases",209215
+"774","Arkansas","Cases",71497
+"775","California","Cases",769917
+"776","Colorado","Cases",62575
+"777","Connecticut","Cases",55031
+"778","Delaware","Cases",19137
+"779","District of Columbia","Cases",14687
+"780","Florida","Cases",668838
+"781","Georgia","Cases",280356
+"782","Guam","Cases",2935
+"783","Hawaii","Cases",10951
+"784","Idaho","Cases",36306
+"785","Illinois","Cases",267380
+"786","Indiana","Cases",109445
+"787","Iowa","Cases",75722
+"788","Kansas","Cases",51006
+"789","Kentucky","Cases",61986
+"790","Louisiana","Cases",159253
+"791","Maine","Cases",4918
+"792","Maryland","Cases",117745
+"793","Massachusetts","Cases",125393
+"794","Michigan","Cases",124978
+"795","Minnesota","Cases",85403
+"796","Mississippi","Cases",90523
+"797","Missouri","Cases",107687
+"798","Montana","Cases",9281
+"799","Nebraska","Cases",38970
+"800","Nevada","Cases",74129
+"801","New Hampshire","Cases",7748
+"802","New Jersey","Cases",199193
+"803","New Mexico","Cases",26923
+"804","New York","Cases",450425
+"805","North Carolina","Cases",187486
+"806","North Dakota","Cases",16067
+"807","Northern Mariana Islands","Cases",61
+"808","Ohio","Cases",139485
+"809","Oklahoma","Cases",71314
+"810","Oregon","Cases",29664
+"811","Pennsylvania","Cases",151081
+"812","Puerto Rico","Cases",38172
+"813","Rhode Island","Cases",23250
+"814","South Carolina","Cases",133470
+"815","South Dakota","Cases",16994
+"816","Tennessee","Cases",172692
+"817","Texas","Cases",701509
+"818","Utah","Cases",59017
+"819","Vermont","Cases",1702
+"820","Virgin Islands","Cases",1232
+"821","Virginia","Cases",135514
+"822","Washington","Cases",84222
+"823","West Virginia","Cases",12976
+"824","Wisconsin","Cases",97002
+"825","Wyoming","Cases",4438
+"826","Alabama","Cases",141087
+"827","Alaska","Cases",7308
+"828","Arizona","Cases",209911
+"829","Arkansas","Cases",72219
+"830","California","Cases",773318
+"831","Colorado","Cases",63068
+"832","Connecticut","Cases",55166
+"833","Delaware","Cases",19234
+"834","District of Columbia","Cases",14743
+"835","Florida","Cases",671193
+"836","Georgia","Cases",282363
+"837","Guam","Cases",2982
+"838","Hawaii","Cases",11052
+"839","Idaho","Cases",36594
+"840","Illinois","Cases",269282
+"841","Indiana","Cases",110025
+"842","Iowa","Cases",76680
+"843","Kansas","Cases",51829
+"844","Kentucky","Cases",62723
+"845","Louisiana","Cases",159865
+"846","Maine","Cases",4941
+"847","Maryland","Cases",118387
+"848","Massachusetts","Cases",125699
+"849","Michigan","Cases",125782
+"850","Minnesota","Cases",85865
+"851","Mississippi","Cases",91234
+"852","Missouri","Cases",108997
+"853","Montana","Cases",9487
+"854","Nebraska","Cases",39419
+"855","Nevada","Cases",74377
+"856","New Hampshire","Cases",7780
+"857","New Jersey","Cases",199583
+"858","New Mexico","Cases",27041
+"859","New York","Cases",451078
+"860","North Carolina","Cases",188800
+"861","North Dakota","Cases",16336
+"862","Northern Mariana Islands","Cases",61
+"863","Ohio","Cases",140518
+"864","Oklahoma","Cases",72284
+"865","Oregon","Cases",29856
+"866","Pennsylvania","Cases",151889
+"867","Puerto Rico","Cases",38284
+"868","Rhode Island","Cases",23358
+"869","South Carolina","Cases",134122
+"870","South Dakota","Cases",17291
+"871","Tennessee","Cases",174400
+"872","Texas","Cases",706034
+"873","Utah","Cases",59770
+"874","Vermont","Cases",1702
+"875","Virgin Islands","Cases",1232
+"876","Virginia","Cases",136359
+"877","Washington","Cases",84714
+"878","West Virginia","Cases",13196
+"879","Wisconsin","Cases",98501
+"880","Wyoming","Cases",4566
+"881","Alabama","Cases",141757
+"882","Alaska","Cases",7413
+"883","Arizona","Cases",211663
+"884","Arkansas","Cases",73211
+"885","California","Cases",776944
+"886","Colorado","Cases",63613
+"887","Connecticut","Cases",55386
+"888","Delaware","Cases",19318
+"889","District of Columbia","Cases",14790
+"890","Florida","Cases",674448
+"891","Georgia","Cases",284219
+"892","Guam","Cases",3014
+"893","Hawaii","Cases",11211
+"894","Idaho","Cases",36924
+"895","Illinois","Cases",271370
+"896","Indiana","Cases",110863
+"897","Iowa","Cases",77865
+"898","Kansas","Cases",52039
+"899","Kentucky","Cases",63412
+"900","Louisiana","Cases",160343
+"901","Maine","Cases",4962
+"902","Maryland","Cases",119017
+"903","Massachusetts","Cases",126128
+"904","Michigan","Cases",126794
+"905","Minnesota","Cases",86774
+"906","Mississippi","Cases",91935
+"907","Missouri","Cases",110554
+"908","Montana","Cases",9721
+"909","Nebraska","Cases",39921
+"910","Nevada","Cases",74792
+"911","New Hampshire","Cases",7814
+"912","New Jersey","Cases",200152
+"913","New Mexico","Cases",27199
+"914","New York","Cases",451971
+"915","North Carolina","Cases",190307
+"916","North Dakota","Cases",16726
+"917","Northern Mariana Islands","Cases",62
+"918","Ohio","Cases",141585
+"919","Oklahoma","Cases",73318
+"920","Oregon","Cases",30068
+"921","Pennsylvania","Cases",152813
+"922","Puerto Rico","Cases",38867
+"923","Rhode Island","Cases",23488
+"924","South Carolina","Cases",135446
+"925","South Dakota","Cases",17686
+"926","Tennessee","Cases",175702
+"927","Texas","Cases",710423
+"928","Utah","Cases",60662
+"929","Vermont","Cases",1705
+"930","Virgin Islands","Cases",1238
+"931","Virginia","Cases",137460
+"932","Washington","Cases",85101
+"933","West Virginia","Cases",13430
+"934","Wisconsin","Cases",100619
+"935","Wyoming","Cases",4652
+"936","Alabama","Cases",142863
+"937","Alaska","Cases",7528
+"938","Arizona","Cases",213663
+"939","Arkansas","Cases",74082
+"940","California","Cases",781436
+"941","Colorado","Cases",64277
+"942","Connecticut","Cases",55527
+"943","Delaware","Cases",19366
+"944","District of Columbia","Cases",14852
+"945","Florida","Cases",677652
+"946","Georgia","Cases",286170
+"947","Guam","Cases",3043
+"948","Hawaii","Cases",11348
+"949","Idaho","Cases",37358
+"950","Illinois","Cases",273596
+"951","Indiana","Cases",111900
+"952","Iowa","Cases",78839
+"953","Kansas","Cases",53403
+"954","Kentucky","Cases",64155
+"955","Louisiana","Cases",161322
+"956","Maine","Cases",5005
+"957","Maryland","Cases",119559
+"958","Massachusetts","Cases",126582
+"959","Michigan","Cases",127558
+"960","Minnesota","Cases",87859
+"961","Mississippi","Cases",92432
+"962","Missouri","Cases",112547
+"963","Montana","Cases",9934
+"964","Nebraska","Cases",40387
+"965","Nevada","Cases",75153
+"966","New Hampshire","Cases",7861
+"967","New Jersey","Cases",200639
+"968","New Mexico","Cases",27350
+"969","New York","Cases",452764
+"970","North Carolina","Cases",191672
+"971","North Dakota","Cases",17233
+"972","Northern Mariana Islands","Cases",62
+"973","Ohio","Cases",142596
+"974","Oklahoma","Cases",74567
+"975","Oregon","Cases",30351
+"976","Pennsylvania","Cases",153560
+"977","Puerto Rico","Cases",39684
+"978","Rhode Island","Cases",23620
+"979","South Carolina","Cases",136318
+"980","South Dakota","Cases",18075
+"981","Tennessee","Cases",177707
+"982","Texas","Cases",713652
+"983","Utah","Cases",61786
+"984","Vermont","Cases",1706
+"985","Virgin Islands","Cases",1257
+"986","Virginia","Cases",138702
+"987","Washington","Cases",85583
+"988","West Virginia","Cases",13683
+"989","Wisconsin","Cases",103211
+"990","Wyoming","Cases",4747
+"991","Alabama","Cases",144164
+"992","Alaska","Cases",7613
+"993","Arizona","Cases",213551
+"994","Arkansas","Cases",75160
+"995","California","Cases",785076
+"996","Colorado","Cases",64694
+"997","Connecticut","Cases",55527
+"998","Delaware","Cases",19449
+"999","District of Columbia","Cases",14902
+"1000","Florida","Cases",681225
+"1001","Georgia","Cases",288059
+"1002","Guam","Cases",3043
+"1003","Hawaii","Cases",11457
+"1004","Idaho","Cases",37624
+"1005","Illinois","Cases",276057
+"1006","Indiana","Cases",112982
+"1007","Iowa","Cases",79785
+"1008","Kansas","Cases",53420
+"1009","Kentucky","Cases",65068
+"1010","Louisiana","Cases",161322
+"1011","Maine","Cases",5035
+"1012","Maryland","Cases",120107
+"1013","Massachusetts","Cases",127181
+"1014","Michigan","Cases",128112
+"1015","Minnesota","Cases",88773
+"1016","Mississippi","Cases",93087
+"1017","Missouri","Cases",113794
+"1018","Montana","Cases",10193
+"1019","Nebraska","Cases",40797
+"1020","Nevada","Cases",75524
+"1021","New Hampshire","Cases",7920
+"1022","New Jersey","Cases",201100
+"1023","New Mexico","Cases",27512
+"1024","New York","Cases",453747
+"1025","North Carolina","Cases",192751
+"1026","North Dakota","Cases",17610
+"1027","Northern Mariana Islands","Cases",68
+"1028","Ohio","Cases",143547
+"1029","Oklahoma","Cases",75804
+"1030","Oregon","Cases",30600
+"1031","Pennsylvania","Cases",154261
+"1032","Puerto Rico","Cases",40993
+"1033","Rhode Island","Cases",23620
+"1034","South Carolina","Cases",137240
+"1035","South Dakota","Cases",18444
+"1036","Tennessee","Cases",179017
+"1037","Texas","Cases",716914
+"1038","Utah","Cases",62893
+"1039","Vermont","Cases",1710
+"1040","Virgin Islands","Cases",1257
+"1041","Virginia","Cases",139655
+"1042","Washington","Cases",85886
+"1043","West Virginia","Cases",13874
+"1044","Wisconsin","Cases",105609
+"1045","Wyoming","Cases",4780
+"1046","Alabama","Cases",144962
+"1047","Alaska","Cases",7704
+"1048","Arizona","Cases",214018
+"1049","Arkansas","Cases",75723
+"1050","California","Cases",788077
+"1051","Colorado","Cases",65248
+"1052","Connecticut","Cases",55527
+"1053","Delaware","Cases",19566
+"1054","District of Columbia","Cases",14955
+"1055","Florida","Cases",683746
+"1056","Georgia","Cases",289096
+"1057","Guam","Cases",3043
+"1058","Hawaii","Cases",11534
+"1059","Idaho","Cases",37768
+"1060","Illinois","Cases",277373
+"1061","Indiana","Cases",113728
+"1062","Iowa","Cases",80410
+"1063","Kansas","Cases",53433
+"1064","Kentucky","Cases",65413
+"1065","Louisiana","Cases",162258
+"1066","Maine","Cases",5079
+"1067","Maryland","Cases",120656
+"1068","Massachusetts","Cases",127540
+"1069","Michigan","Cases",128148
+"1070","Minnesota","Cases",90069
+"1071","Mississippi","Cases",93364
+"1072","Missouri","Cases",115000
+"1073","Montana","Cases",10325
+"1074","Nebraska","Cases",41083
+"1075","Nevada","Cases",75914
+"1076","New Hampshire","Cases",7947
+"1077","New Jersey","Cases",201553
+"1078","New Mexico","Cases",27579
+"1079","New York","Cases",454612
+"1080","North Carolina","Cases",193978
+"1081","North Dakota","Cases",17961
+"1082","Northern Mariana Islands","Cases",68
+"1083","Ohio","Cases",144309
+"1084","Oklahoma","Cases",76807
+"1085","Oregon","Cases",30802
+"1086","Pennsylvania","Cases",154924
+"1087","Puerto Rico","Cases",41838
+"1088","Rhode Island","Cases",23620
+"1089","South Carolina","Cases",137708
+"1090","South Dakota","Cases",18696
+"1091","Tennessee","Cases",180621
+"1092","Texas","Cases",722460
+"1093","Utah","Cases",63774
+"1094","Vermont","Cases",1715
+"1095","Virgin Islands","Cases",1269
+"1096","Virginia","Cases",140511
+"1097","Washington","Cases",86169
+"1098","West Virginia","Cases",14054
+"1099","Wisconsin","Cases",107343
+"1100","Wyoming","Cases",4871
+"1101","Alabama","Cases",145780
+"1102","Alaska","Cases",7775
+"1103","Arizona","Cases",214251
+"1104","Arkansas","Cases",76364
+"1105","California","Cases",792217
+"1106","Colorado","Cases",65936
+"1107","Connecticut","Cases",56024
+"1108","Delaware","Cases",19667
+"1109","District of Columbia","Cases",14978
+"1110","Florida","Cases",685431
+"1111","Georgia","Cases",289975
+"1112","Guam","Cases",3116
+"1113","Hawaii","Cases",11590
+"1114","Idaho","Cases",38196
+"1115","Illinois","Cases",279032
+"1116","Indiana","Cases",114251
+"1117","Iowa","Cases",81006
+"1118","Kansas","Cases",54956
+"1119","Kentucky","Cases",65905
+"1120","Louisiana","Cases",162501
+"1121","Maine","Cases",5106
+"1122","Maryland","Cases",121068
+"1123","Massachusetts","Cases",127796
+"1124","Michigan","Cases",129655
+"1125","Minnesota","Cases",90994
+"1126","Mississippi","Cases",93556
+"1127","Missouri","Cases",116814
+"1128","Montana","Cases",10509
+"1129","Nebraska","Cases",41388
+"1130","Nevada","Cases",76119
+"1131","New Hampshire","Cases",7952
+"1132","New Jersey","Cases",201945
+"1133","New Mexico","Cases",27683
+"1134","New York","Cases",455187
+"1135","North Carolina","Cases",195093
+"1136","North Dakota","Cases",18247
+"1137","Northern Mariana Islands","Cases",69
+"1138","Ohio","Cases",145165
+"1139","Oklahoma","Cases",77908
+"1140","Oregon","Cases",30999
+"1141","Pennsylvania","Cases",155729
+"1142","Puerto Rico","Cases",42476
+"1143","Rhode Island","Cases",23932
+"1144","South Carolina","Cases",138124
+"1145","South Dakota","Cases",18869
+"1146","Tennessee","Cases",181725
+"1147","Texas","Cases",744736
+"1148","Utah","Cases",64404
+"1149","Vermont","Cases",1719
+"1150","Virgin Islands","Cases",1269
+"1151","Virginia","Cases",141138
+"1152","Washington","Cases",86803
+"1153","West Virginia","Cases",14171
+"1154","Wisconsin","Cases",108656
+"1155","Wyoming","Cases",4944
+"1156","Alabama","Cases",146584
+"1157","Alaska","Cases",7821
+"1158","Arizona","Cases",214846
+"1159","Arkansas","Cases",76981
+"1160","California","Cases",795077
+"1161","Colorado","Cases",66552
+"1162","Connecticut","Cases",56160
+"1163","Delaware","Cases",19761
+"1164","District of Columbia","Cases",15021
+"1165","Florida","Cases",687901
+"1166","Georgia","Cases",290930
+"1167","Guam","Cases",3159
+"1168","Hawaii","Cases",11653
+"1169","Idaho","Cases",38676
+"1170","Illinois","Cases",280511
+"1171","Indiana","Cases",114864
+"1172","Iowa","Cases",81674
+"1173","Kansas","Cases",55237
+"1174","Kentucky","Cases",66624
+"1175","Louisiana","Cases",163253
+"1176","Maine","Cases",5146
+"1177","Maryland","Cases",121409
+"1178","Massachusetts","Cases",127969
+"1179","Michigan","Cases",130406
+"1180","Minnesota","Cases",91474
+"1181","Mississippi","Cases",94021
+"1182","Missouri","Cases",118574
+"1183","Montana","Cases",10792
+"1184","Nebraska","Cases",41828
+"1185","Nevada","Cases",76376
+"1186","New Hampshire","Cases",7990
+"1187","New Jersey","Cases",202371
+"1188","New Mexico","Cases",27790
+"1189","New York","Cases",455938
+"1190","North Carolina","Cases",196258
+"1191","North Dakota","Cases",18511
+"1192","Northern Mariana Islands","Cases",69
+"1193","Ohio","Cases",145850
+"1194","Oklahoma","Cases",79072
+"1195","Oregon","Cases",31323
+"1196","Pennsylvania","Cases",156512
+"1197","Puerto Rico","Cases",42596
+"1198","Rhode Island","Cases",24044
+"1199","South Carolina","Cases",140789
+"1200","South Dakota","Cases",19189
+"1201","Tennessee","Cases",182546
+"1202","Texas","Cases",749069
+"1203","Utah","Cases",65058
+"1204","Vermont","Cases",1721
+"1205","Virgin Islands","Cases",1278
+"1206","Virginia","Cases",142010
+"1207","Washington","Cases",87233
+"1208","West Virginia","Cases",14384
+"1209","Wisconsin","Cases",110393
+"1210","Wyoming","Cases",5016
+"1211","Alabama","Cases",147153
+"1212","Alaska","Cases",7875
+"1213","Arizona","Cases",215284
+"1214","Arkansas","Cases",77963
+"1215","California","Cases",798350
+"1216","Colorado","Cases",67186
+"1217","Connecticut","Cases",56315
+"1218","Delaware","Cases",19830
+"1219","District of Columbia","Cases",15050
+"1220","Florida","Cases",690491
+"1221","Georgia","Cases",292797
+"1222","Guam","Cases",3204
+"1223","Hawaii","Cases",11820
+"1224","Idaho","Cases",39030
+"1225","Illinois","Cases",282331
+"1226","Indiana","Cases",115578
+"1227","Iowa","Cases",82956
+"1228","Kansas","Cases",56355
+"1229","Kentucky","Cases",67590
+"1230","Louisiana","Cases",163869
+"1231","Maine","Cases",5171
+"1232","Maryland","Cases",121793
+"1233","Massachusetts","Cases",128512
+"1234","Michigan","Cases",131292
+"1235","Minnesota","Cases",92152
+"1236","Mississippi","Cases",94573
+"1237","Missouri","Cases",120124
+"1238","Montana","Cases",11034
+"1239","Nebraska","Cases",42278
+"1240","Nevada","Cases",76907
+"1241","New Hampshire","Cases",8007
+"1242","New Jersey","Cases",202779
+"1243","New Mexico","Cases",27987
+"1244","New York","Cases",456604
+"1245","North Carolina","Cases",197431
+"1246","North Dakota","Cases",18984
+"1247","Northern Mariana Islands","Cases",69
+"1248","Ohio","Cases",146753
+"1249","Oklahoma","Cases",80161
+"1250","Oregon","Cases",31513
+"1251","Pennsylvania","Cases",157373
+"1252","Puerto Rico","Cases",42660
+"1253","Rhode Island","Cases",24177
+"1254","South Carolina","Cases",141686
+"1255","South Dakota","Cases",19634
+"1256","Tennessee","Cases",184068
+"1257","Texas","Cases",753551
+"1258","Utah","Cases",65948
+"1259","Vermont","Cases",1722
+"1260","Virgin Islands","Cases",1290
+"1261","Virginia","Cases",142590
+"1262","Washington","Cases",88042
+"1263","West Virginia","Cases",14504
+"1264","Wisconsin","Cases",112276
+"1265","Wyoming","Cases",5169
+"1266","Alabama","Cases",148206
+"1267","Alaska","Cases",8015
+"1268","Arizona","Cases",215852
+"1269","Arkansas","Cases",79049
+"1270","California","Cases",801671
+"1271","Colorado","Cases",67745
+"1272","Connecticut","Cases",56472
+"1273","Delaware","Cases",19947
+"1274","District of Columbia","Cases",15106
+"1275","Florida","Cases",693032
+"1276","Georgia","Cases",294334
+"1277","Guam","Cases",3232
+"1278","Hawaii","Cases",11908
+"1279","Idaho","Cases",39547
+"1280","Illinois","Cases",284620
+"1281","Indiana","Cases",116481
+"1282","Iowa","Cases",83993
+"1283","Kansas","Cases",56461
+"1284","Kentucky","Cases",68230
+"1285","Louisiana","Cases",164446
+"1286","Maine","Cases",5215
+"1287","Maryland","Cases",122293
+"1288","Massachusetts","Cases",128993
+"1289","Michigan","Cases",132400
+"1290","Minnesota","Cases",93064
+"1291","Mississippi","Cases",95310
+"1292","Missouri","Cases",121485
+"1293","Montana","Cases",11381
+"1294","Nebraska","Cases",42731
+"1295","Nevada","Cases",77338
+"1296","New Hampshire","Cases",8044
+"1297","New Jersey","Cases",203343
+"1298","New Mexico","Cases",28224
+"1299","New York","Cases",457557
+"1300","North Carolina","Cases",199236
+"1301","North Dakota","Cases",19454
+"1302","Northern Mariana Islands","Cases",69
+"1303","Ohio","Cases",147744
+"1304","Oklahoma","Cases",81244
+"1305","Oregon","Cases",31869
+"1306","Pennsylvania","Cases",158221
+"1307","Puerto Rico","Cases",43842
+"1308","Rhode Island","Cases",24311
+"1309","South Carolina","Cases",142707
+"1310","South Dakota","Cases",20097
+"1311","Tennessee","Cases",185121
+"1312","Texas","Cases",758379
+"1313","Utah","Cases",67167
+"1314","Vermont","Cases",1724
+"1315","Virgin Islands","Cases",1290
+"1316","Virginia","Cases",143492
+"1317","Washington","Cases",88597
+"1318","West Virginia","Cases",14706
+"1319","Wisconsin","Cases",114743
+"1320","Wyoming","Cases",5305
+"1321","Alabama","Cases",150658
+"1322","Alaska","Cases",8133
+"1323","Arizona","Cases",216367
+"1324","Arkansas","Cases",79946
+"1325","California","Cases",805733
+"1326","Colorado","Cases",68506
+"1327","Connecticut","Cases",56587
+"1328","Delaware","Cases",20085
+"1329","District of Columbia","Cases",15163
+"1330","Florida","Cases",695879
+"1331","Georgia","Cases",296089
+"1332","Guam","Cases",3255
+"1333","Hawaii","Cases",12039
+"1334","Idaho","Cases",40228
+"1335","Illinois","Cases",287375
+"1336","Indiana","Cases",117656
+"1337","Iowa","Cases",85031
+"1338","Kansas","Cases",57839
+"1339","Kentucky","Cases",69150
+"1340","Louisiana","Cases",165152
+"1341","Maine","Cases",5235
+"1342","Maryland","Cases",122850
+"1343","Massachusetts","Cases",129481
+"1344","Michigan","Cases",133443
+"1345","Minnesota","Cases",94241
+"1346","Mississippi","Cases",96032
+"1347","Missouri","Cases",123544
+"1348","Montana","Cases",11656
+"1349","Nebraska","Cases",43162
+"1350","Nevada","Cases",77930
+"1351","New Hampshire","Cases",8085
+"1352","New Jersey","Cases",203891
+"1353","New Mexico","Cases",28487
+"1354","New York","Cases",458466
+"1355","North Carolina","Cases",204658
+"1356","North Dakota","Cases",19888
+"1357","Northern Mariana Islands","Cases",69
+"1358","Ohio","Cases",148894
+"1359","Oklahoma","Cases",82520
+"1360","Oregon","Cases",32328
+"1361","Pennsylvania","Cases",159051
+"1362","Puerto Rico","Cases",44905
+"1363","Rhode Island","Cases",24181
+"1364","South Carolina","Cases",143902
+"1365","South Dakota","Cases",20554
+"1366","Tennessee","Cases",186769
+"1367","Texas","Cases",761644
+"1368","Utah","Cases",68537
+"1369","Vermont","Cases",1731
+"1370","Virgin Islands","Cases",1296
+"1371","Virginia","Cases",144433
+"1372","Washington","Cases",89149
+"1373","West Virginia","Cases",14953
+"1374","Wisconsin","Cases",117355
+"1375","Wyoming","Cases",5420
+"1376","Alabama","Cases",151591
+"1377","Alaska","Cases",8244
+"1378","Arizona","Cases",216826
+"1379","Arkansas","Cases",80755
+"1380","California","Cases",809214
+"1381","Colorado","Cases",68973
+"1382","Connecticut","Cases",56587
+"1383","Delaware","Cases",20156
+"1384","District of Columbia","Cases",15215
+"1385","Florida","Cases",698674
+"1386","Georgia","Cases",297553
+"1387","Guam","Cases",3255
+"1388","Hawaii","Cases",12166
+"1389","Idaho","Cases",40411
+"1390","Illinois","Cases",289683
+"1391","Indiana","Cases",118819
+"1392","Iowa","Cases",85908
+"1393","Kansas","Cases",57839
+"1394","Kentucky","Cases",70038
+"1395","Louisiana","Cases",165152
+"1396","Maine","Cases",5260
+"1397","Maryland","Cases",123328
+"1398","Massachusetts","Cases",130050
+"1399","Michigan","Cases",134372
+"1400","Minnesota","Cases",95711
+"1401","Mississippi","Cases",96677
+"1402","Missouri","Cases",124939
+"1403","Montana","Cases",11943
+"1404","Nebraska","Cases",43596
+"1405","Nevada","Cases",78464
+"1406","New Hampshire","Cases",8121
+"1407","New Jersey","Cases",204641
+"1408","New Mexico","Cases",28692
+"1409","New York","Cases",459472
+"1410","North Carolina","Cases",206241
+"1411","North Dakota","Cases",20383
+"1412","Northern Mariana Islands","Cases",69
+"1413","Ohio","Cases",150009
+"1414","Oklahoma","Cases",83510
+"1415","Oregon","Cases",32581
+"1416","Pennsylvania","Cases",159937
+"1417","Puerto Rico","Cases",45413
+"1418","Rhode Island","Cases",24181
+"1419","South Carolina","Cases",145273
+"1420","South Dakota","Cases",21133
+"1421","Tennessee","Cases",188205
+"1422","Texas","Cases",764642
+"1423","Utah","Cases",69556
+"1424","Vermont","Cases",1739
+"1425","Virgin Islands","Cases",1317
+"1426","Virginia","Cases",145408
+"1427","Washington","Cases",89514
+"1428","West Virginia","Cases",15158
+"1429","Wisconsin","Cases",120249
+"1430","Wyoming","Cases",5465
+"1431","Alabama","Cases",152321
+"1432","Alaska","Cases",8359
+"1433","Arizona","Cases",217237
+"1434","Arkansas","Cases",81242
+"1435","California","Cases",811698
+"1436","Colorado","Cases",69472
+"1437","Connecticut","Cases",56587
+"1438","Delaware","Cases",20260
+"1439","District of Columbia","Cases",15250
+"1440","Florida","Cases",700556
+"1441","Georgia","Cases",298321
+"1442","Guam","Cases",3255
+"1443","Hawaii","Cases",12264
+"1444","Idaho","Cases",40501
+"1445","Illinois","Cases",291271
+"1446","Indiana","Cases",119721
+"1447","Iowa","Cases",86624
+"1448","Kansas","Cases",57965
+"1449","Kentucky","Cases",70385
+"1450","Louisiana","Cases",166075
+"1451","Maine","Cases",5288
+"1452","Maryland","Cases",123895
+"1453","Massachusetts","Cases",130642
+"1454","Michigan","Cases",134409
+"1455","Minnesota","Cases",96786
+"1456","Mississippi","Cases",96859
+"1457","Missouri","Cases",126115
+"1458","Montana","Cases",12126
+"1459","Nebraska","Cases",44063
+"1460","Nevada","Cases",78820
+"1461","New Hampshire","Cases",8172
+"1462","New Jersey","Cases",205339
+"1463","New Mexico","Cases",28844
+"1464","New York","Cases",460340
+"1465","North Carolina","Cases",207407
+"1466","North Dakota","Cases",20727
+"1467","Northern Mariana Islands","Cases",69
+"1468","Ohio","Cases",150809
+"1469","Oklahoma","Cases",84333
+"1470","Oregon","Cases",32820
+"1471","Pennsylvania","Cases",160770
+"1472","Puerto Rico","Cases",46304
+"1473","Rhode Island","Cases",24181
+"1474","South Carolina","Cases",145887
+"1475","South Dakota","Cases",21541
+"1476","Tennessee","Cases",190037
+"1477","Texas","Cases",770539
+"1478","Utah","Cases",70616
+"1479","Vermont","Cases",1742
+"1480","Virgin Islands","Cases",1317
+"1481","Virginia","Cases",146144
+"1482","Washington","Cases",89822
+"1483","West Virginia","Cases",15348
+"1484","Wisconsin","Cases",122498
+"1485","Wyoming","Cases",5633
+"1486","Alabama","Cases",152983
+"1487","Alaska","Cases",8477
+"1488","Arizona","Cases",217513
+"1489","Arkansas","Cases",82049
+"1490","California","Cases",814796
+"1491","Colorado","Cases",69967
+"1492","Connecticut","Cases",57147
+"1493","Delaware","Cases",20389
+"1494","District of Columbia","Cases",15264
+"1495","Florida","Cases",701294
+"1496","Georgia","Cases",298963
+"1497","Guam","Cases",3255
+"1498","Hawaii","Cases",12351
+"1499","Idaho","Cases",41386
+"1500","Illinois","Cases",293169
+"1501","Indiana","Cases",120581
+"1502","Iowa","Cases",87256
+"1503","Kansas","Cases",59784
+"1504","Kentucky","Cases",71003
+"1505","Louisiana","Cases",166315
+"1506","Maine","Cases",5300
+"1507","Maryland","Cases",124371
+"1508","Massachusetts","Cases",131072
+"1509","Michigan","Cases",135782
+"1510","Minnesota","Cases",97690
+"1511","Mississippi","Cases",97049
+"1512","Missouri","Cases",127894
+"1513","Montana","Cases",12538
+"1514","Nebraska","Cases",44578
+"1515","Nevada","Cases",79313
+"1516","New Hampshire","Cases",8208
+"1517","New Jersey","Cases",205898
+"1518","New Mexico","Cases",28985
+"1519","New York","Cases",461176
+"1520","North Carolina","Cases",208497
+"1521","North Dakota","Cases",20986
+"1522","Northern Mariana Islands","Cases",69
+"1523","Ohio","Cases",151802
+"1524","Oklahoma","Cases",85194
+"1525","Oregon","Cases",32995
+"1526","Pennsylvania","Cases",161642
+"1527","Puerto Rico","Cases",47422
+"1528","Rhode Island","Cases",24424
+"1529","South Carolina","Cases",146455
+"1530","South Dakota","Cases",21738
+"1531","Tennessee","Cases",190991
+"1532","Texas","Cases",773679
+"1533","Utah","Cases",71442
+"1534","Vermont","Cases",1745
+"1535","Virgin Islands","Cases",1318
+"1536","Virginia","Cases",146593
+"1537","Washington","Cases",90596
+"1538","West Virginia","Cases",15512
+"1539","Wisconsin","Cases",124320
+"1540","Wyoming","Cases",5754
+"1541","Alabama","Cases",153554
+"1542","Alaska","Cases",8602
+"1543","Arizona","Cases",218185
+"1544","Arkansas","Cases",82755
+"1545","California","Cases",817939
+"1546","Colorado","Cases",70458
+"1547","Connecticut","Cases",57329
+"1548","Delaware","Cases",20531
+"1549","District of Columbia","Cases",15300
+"1550","Florida","Cases",704560
+"1551","Georgia","Cases",300019
+"1552","Guam","Cases",3412
+"1553","Hawaii","Cases",12436
+"1554","Idaho","Cases",41854
+"1555","Illinois","Cases",294673
+"1556","Indiana","Cases",121327
+"1557","Iowa","Cases",88234
+"1558","Kansas","Cases",59942
+"1559","Kentucky","Cases",71921
+"1560","Louisiana","Cases",166848
+"1561","Maine","Cases",5337
+"1562","Maryland","Cases",124805
+"1563","Massachusetts","Cases",131584
+"1564","Michigan","Cases",136899
+"1565","Minnesota","Cases",98499
+"1566","Mississippi","Cases",97638
+"1567","Missouri","Cases",128816
+"1568","Montana","Cases",12825
+"1569","Nebraska","Cases",45044
+"1570","Nevada","Cases",79691
+"1571","New Hampshire","Cases",8233
+"1572","New Jersey","Cases",206354
+"1573","New Mexico","Cases",29157
+"1574","New York","Cases",462364
+"1575","North Carolina","Cases",209384
+"1576","North Dakota","Cases",21404
+"1577","Northern Mariana Islands","Cases",69
+"1578","Ohio","Cases",152907
+"1579","Oklahoma","Cases",86219
+"1580","Oregon","Cases",33297
+"1581","Pennsylvania","Cases",163219
+"1582","Puerto Rico","Cases",48467
+"1583","Rhode Island","Cases",24556
+"1584","South Carolina","Cases",147634
+"1585","South Dakota","Cases",21997
+"1586","Tennessee","Cases",191859
+"1587","Texas","Cases",780543
+"1588","Utah","Cases",72136
+"1589","Vermont","Cases",1749
+"1590","Virgin Islands","Cases",1318
+"1591","Virginia","Cases",147516
+"1592","Washington","Cases",91011
+"1593","West Virginia","Cases",15692
+"1594","Wisconsin","Cases",126744
+"1595","Wyoming","Cases",5821
+"1596","Alabama","Cases",154701
+"1597","Alaska","Cases",8707
+"1598","Arizona","Cases",218511
+"1599","Arkansas","Cases",83697
+"1600","California","Cases",821125
+"1601","Colorado","Cases",71090
+"1602","Connecticut","Cases",57550
+"1603","Delaware","Cases",20613
+"1604","District of Columbia","Cases",15326
+"1605","Florida","Cases",706508
+"1606","Georgia","Cases",301485
+"1607","Guam","Cases",3457
+"1608","Hawaii","Cases",12555
+"1609","Idaho","Cases",42549
+"1610","Illinois","Cases",296935
+"1611","Indiana","Cases",122295
+"1612","Iowa","Cases",89248
+"1613","Kansas","Cases",60918
+"1614","Kentucky","Cases",72830
+"1615","Louisiana","Cases",167458
+"1616","Maine","Cases",5391
+"1617","Maryland","Cases",125217
+"1618","Massachusetts","Cases",132116
+"1619","Michigan","Cases",138074
+"1620","Minnesota","Cases",99187
+"1621","Mississippi","Cases",98190
+"1622","Missouri","Cases",130065
+"1623","Montana","Cases",13179
+"1624","Nebraska","Cases",45564
+"1625","Nevada","Cases",80084
+"1626","New Hampshire","Cases",8266
+"1627","New Jersey","Cases",207062
+"1628","New Mexico","Cases",29435
+"1629","New York","Cases",463369
+"1630","North Carolina","Cases",211004
+"1631","North Dakota","Cases",21849
+"1632","Northern Mariana Islands","Cases",70
+"1633","Ohio","Cases",153987
+"1634","Oklahoma","Cases",87199
+"1635","Oregon","Cases",33554
+"1636","Pennsylvania","Cases",164135
+"1637","Puerto Rico","Cases",48755
+"1638","Rhode Island","Cases",24748
+"1639","South Carolina","Cases",147942
+"1640","South Dakota","Cases",22389
+"1641","Tennessee","Cases",193357
+"1642","Texas","Cases",784027
+"1643","Utah","Cases",73053
+"1644","Vermont","Cases",1752
+"1645","Virgin Islands","Cases",1318
+"1646","Virginia","Cases",148271
+"1647","Washington","Cases",91560
+"1648","West Virginia","Cases",15848
+"1649","Wisconsin","Cases",129172
+"1650","Wyoming","Cases",5948
+"1651","Alabama","Deaths",2200
+"1652","Alaska","Deaths",36
+"1653","Arizona","Deaths",5048
+"1654","Arkansas","Deaths",814
+"1655","California","Deaths",13149
+"1656","Colorado","Deaths",1953
+"1657","Connecticut","Deaths",4466
+"1658","Delaware","Deaths",605
+"1659","District of Columbia","Deaths",607
+"1660","Florida","Deaths",11373
+"1661","Georgia","Deaths",5604
+"1662","Guam","Deaths",14
+"1663","Hawaii","Deaths",73
+"1664","Idaho","Deaths",370
+"1665","Illinois","Deaths",8299
+"1666","Indiana","Deaths",3312
+"1667","Iowa","Deaths",1125
+"1668","Kansas","Deaths",454
+"1669","Kentucky","Deaths",983
+"1670","Louisiana","Deaths",4984
+"1671","Maine","Deaths",132
+"1672","Maryland","Deaths",3761
+"1673","Massachusetts","Deaths",9064
+"1674","Michigan","Deaths",6770
+"1675","Minnesota","Deaths",1872
+"1676","Mississippi","Deaths",2493
+"1677","Missouri","Deaths",1651
+"1678","Montana","Deaths",105
+"1679","Nebraska","Deaths",405
+"1680","Nevada","Deaths",1313
+"1681","New Hampshire","Deaths",432
+"1682","New Jersey","Deaths",15950
+"1683","New Mexico","Deaths",787
+"1684","New York","Deaths",32551
+"1685","North Carolina","Deaths",2769
+"1686","North Dakota","Deaths",149
+"1687","Northern Mariana Islands","Deaths",2
+"1688","Ohio","Deaths",4165
+"1689","Oklahoma","Deaths",809
+"1690","Oregon","Deaths",467
+"1691","Pennsylvania","Deaths",7764
+"1692","Puerto Rico","Deaths",435
+"1693","Rhode Island","Deaths",1050
+"1694","South Carolina","Deaths",2757
+"1695","South Dakota","Deaths",167
+"1696","Tennessee","Deaths",1753
+"1697","Texas","Deaths",13004
+"1698","Utah","Deaths",410
+"1699","Vermont","Deaths",58
+"1700","Virgin Islands","Deaths",15
+"1701","Virginia","Deaths",2612
+"1702","Washington","Deaths",2018
+"1703","West Virginia","Deaths",222
+"1704","Wisconsin","Deaths",1141
+"1705","Wyoming","Deaths",41
+"1706","Alabama","Deaths",2217
+"1707","Alaska","Deaths",36
+"1708","Arizona","Deaths",5070
+"1709","Arkansas","Deaths",841
+"1710","California","Deaths",13330
+"1711","Colorado","Deaths",1960
+"1712","Connecticut","Deaths",4467
+"1713","Delaware","Deaths",606
+"1714","District of Columbia","Deaths",608
+"1715","Florida","Deaths",11500
+"1716","Georgia","Deaths",5665
+"1717","Guam","Deaths",14
+"1718","Hawaii","Deaths",74
+"1719","Idaho","Deaths",374
+"1720","Illinois","Deaths",8322
+"1721","Indiana","Deaths",3325
+"1722","Iowa","Deaths",1134
+"1723","Kansas","Deaths",458
+"1724","Kentucky","Deaths",1008
+"1725","Louisiana","Deaths",5004
+"1726","Maine","Deaths",133
+"1727","Maryland","Deaths",3766
+"1728","Massachusetts","Deaths",9060
+"1729","Michigan","Deaths",6783
+"1730","Minnesota","Deaths",1882
+"1731","Mississippi","Deaths",2526
+"1732","Missouri","Deaths",1669
+"1733","Montana","Deaths",109
+"1734","Nebraska","Deaths",408
+"1735","Nevada","Deaths",1338
+"1736","New Hampshire","Deaths",432
+"1737","New Jersey","Deaths",15964
+"1738","New Mexico","Deaths",790
+"1739","New York","Deaths",32559
+"1740","North Carolina","Deaths",2806
+"1741","North Dakota","Deaths",152
+"1742","Northern Mariana Islands","Deaths",2
+"1743","Ohio","Deaths",4176
+"1744","Oklahoma","Deaths",821
+"1745","Oregon","Deaths",473
+"1746","Pennsylvania","Deaths",7792
+"1747","Puerto Rico","Deaths",443
+"1748","Rhode Island","Deaths",1051
+"1749","South Carolina","Deaths",2794
+"1750","South Dakota","Deaths",169
+"1751","Tennessee","Deaths",1768
+"1752","Texas","Deaths",13185
+"1753","Utah","Deaths",414
+"1754","Vermont","Deaths",58
+"1755","Virgin Islands","Deaths",15
+"1756","Virginia","Deaths",2641
+"1757","Washington","Deaths",2025
+"1758","West Virginia","Deaths",230
+"1759","Wisconsin","Deaths",1151
+"1760","Wyoming","Deaths",41
+"1761","Alabama","Deaths",2233
+"1762","Alaska","Deaths",37
+"1763","Arizona","Deaths",5133
+"1764","Arkansas","Deaths",861
+"1765","California","Deaths",13497
+"1766","Colorado","Deaths",1963
+"1767","Connecticut","Deaths",4468
+"1768","Delaware","Deaths",606
+"1769","District of Columbia","Deaths",609
+"1770","Florida","Deaths",11649
+"1771","Georgia","Deaths",5735
+"1772","Guam","Deaths",14
+"1773","Hawaii","Deaths",78
+"1774","Idaho","Deaths",375
+"1775","Illinois","Deaths",8347
+"1776","Indiana","Deaths",3332
+"1777","Iowa","Deaths",1137
+"1778","Kansas","Deaths",475
+"1779","Kentucky","Deaths",1021
+"1780","Louisiana","Deaths",5021
+"1781","Maine","Deaths",133
+"1782","Maryland","Deaths",3778
+"1783","Massachusetts","Deaths",9077
+"1784","Michigan","Deaths",6794
+"1785","Minnesota","Deaths",1889
+"1786","Mississippi","Deaths",2536
+"1787","Missouri","Deaths",1680
+"1788","Montana","Deaths",111
+"1789","Nebraska","Deaths",410
+"1790","Nevada","Deaths",1366
+"1791","New Hampshire","Deaths",432
+"1792","New Jersey","Deaths",15971
+"1793","New Mexico","Deaths",791
+"1794","New York","Deaths",32567
+"1795","North Carolina","Deaths",2829
+"1796","North Dakota","Deaths",154
+"1797","Northern Mariana Islands","Deaths",2
+"1798","Ohio","Deaths",4226
+"1799","Oklahoma","Deaths",835
+"1800","Oregon","Deaths",475
+"1801","Pennsylvania","Deaths",7805
+"1802","Puerto Rico","Deaths",448
+"1803","Rhode Island","Deaths",1055
+"1804","South Carolina","Deaths",2807
+"1805","South Dakota","Deaths",169
+"1806","Tennessee","Deaths",1791
+"1807","Texas","Deaths",13387
+"1808","Utah","Deaths",416
+"1809","Vermont","Deaths",58
+"1810","Virgin Islands","Deaths",16
+"1811","Virginia","Deaths",2652
+"1812","Washington","Deaths",2033
+"1813","West Virginia","Deaths",237
+"1814","Wisconsin","Deaths",1155
+"1815","Wyoming","Deaths",41
+"1816","Alabama","Deaths",2266
+"1817","Alaska","Deaths",37
+"1818","Arizona","Deaths",5174
+"1819","Arkansas","Deaths",873
+"1820","California","Deaths",13644
+"1821","Colorado","Deaths",1973
+"1822","Connecticut","Deaths",4468
+"1823","Delaware","Deaths",606
+"1824","District of Columbia","Deaths",611
+"1825","Florida","Deaths",11749
+"1826","Georgia","Deaths",5797
+"1827","Guam","Deaths",15
+"1828","Hawaii","Deaths",80
+"1829","Idaho","Deaths",386
+"1830","Illinois","Deaths",8386
+"1831","Indiana","Deaths",3350
+"1832","Iowa","Deaths",1158
+"1833","Kansas","Deaths",481
+"1834","Kentucky","Deaths",1028
+"1835","Louisiana","Deaths",5035
+"1836","Maine","Deaths",134
+"1837","Maryland","Deaths",3789
+"1838","Massachusetts","Deaths",9100
+"1839","Michigan","Deaths",6802
+"1840","Minnesota","Deaths",1899
+"1841","Mississippi","Deaths",2558
+"1842","Missouri","Deaths",1698
+"1843","Montana","Deaths",114
+"1844","Nebraska","Deaths",411
+"1845","Nevada","Deaths",1376
+"1846","New Hampshire","Deaths",432
+"1847","New Jersey","Deaths",15978
+"1848","New Mexico","Deaths",794
+"1849","New York","Deaths",32573
+"1850","North Carolina","Deaths",2868
+"1851","North Dakota","Deaths",154
+"1852","Northern Mariana Islands","Deaths",2
+"1853","Ohio","Deaths",4248
+"1854","Oklahoma","Deaths",846
+"1855","Oregon","Deaths",481
+"1856","Pennsylvania","Deaths",7821
+"1857","Puerto Rico","Deaths",455
+"1858","Rhode Island","Deaths",1055
+"1859","South Carolina","Deaths",2846
+"1860","South Dakota","Deaths",170
+"1861","Tennessee","Deaths",1813
+"1862","Texas","Deaths",13516
+"1863","Utah","Deaths",420
+"1864","Vermont","Deaths",58
+"1865","Virgin Islands","Deaths",16
+"1866","Virginia","Deaths",2662
+"1867","Washington","Deaths",2042
+"1868","West Virginia","Deaths",243
+"1869","Wisconsin","Deaths",1164
+"1870","Wyoming","Deaths",42
+"1871","Alabama","Deaths",2275
+"1872","Alaska","Deaths",39
+"1873","Arizona","Deaths",5207
+"1874","Arkansas","Deaths",882
+"1875","California","Deaths",13708
+"1876","Colorado","Deaths",1978
+"1877","Connecticut","Deaths",4468
+"1878","Delaware","Deaths",608
+"1879","District of Columbia","Deaths",611
+"1880","Florida","Deaths",11810
+"1881","Georgia","Deaths",5842
+"1882","Guam","Deaths",16
+"1883","Hawaii","Deaths",83
+"1884","Idaho","Deaths",386
+"1885","Illinois","Deaths",8405
+"1886","Indiana","Deaths",3362
+"1887","Iowa","Deaths",1165
+"1888","Kansas","Deaths",482
+"1889","Kentucky","Deaths",1033
+"1890","Louisiana","Deaths",5035
+"1891","Maine","Deaths",134
+"1892","Maryland","Deaths",3796
+"1893","Massachusetts","Deaths",9116
+"1894","Michigan","Deaths",6809
+"1895","Minnesota","Deaths",1903
+"1896","Mississippi","Deaths",2569
+"1897","Missouri","Deaths",1728
+"1898","Montana","Deaths",116
+"1899","Nebraska","Deaths",415
+"1900","Nevada","Deaths",1390
+"1901","New Hampshire","Deaths",432
+"1902","New Jersey","Deaths",15985
+"1903","New Mexico","Deaths",800
+"1904","New York","Deaths",32579
+"1905","North Carolina","Deaths",2913
+"1906","North Dakota","Deaths",159
+"1907","Northern Mariana Islands","Deaths",2
+"1908","Ohio","Deaths",4256
+"1909","Oklahoma","Deaths",850
+"1910","Oregon","Deaths",482
+"1911","Pennsylvania","Deaths",7837
+"1912","Puerto Rico","Deaths",464
+"1913","Rhode Island","Deaths",1055
+"1914","South Carolina","Deaths",2877
+"1915","South Dakota","Deaths",173
+"1916","Tennessee","Deaths",1838
+"1917","Texas","Deaths",13660
+"1918","Utah","Deaths",421
+"1919","Vermont","Deaths",58
+"1920","Virgin Islands","Deaths",16
+"1921","Virginia","Deaths",2677
+"1922","Washington","Deaths",2042
+"1923","West Virginia","Deaths",243
+"1924","Wisconsin","Deaths",1177
+"1925","Wyoming","Deaths",42
+"1926","Alabama","Deaths",2276
+"1927","Alaska","Deaths",39
+"1928","Arizona","Deaths",5221
+"1929","Arkansas","Deaths",894
+"1930","California","Deaths",13730
+"1931","Colorado","Deaths",1980
+"1932","Connecticut","Deaths",4468
+"1933","Delaware","Deaths",609
+"1934","District of Columbia","Deaths",611
+"1935","Florida","Deaths",11848
+"1936","Georgia","Deaths",5900
+"1937","Guam","Deaths",17
+"1938","Hawaii","Deaths",84
+"1939","Idaho","Deaths",387
+"1940","Illinois","Deaths",8409
+"1941","Indiana","Deaths",3364
+"1942","Iowa","Deaths",1167
+"1943","Kansas","Deaths",483
+"1944","Kentucky","Deaths",1035
+"1945","Louisiana","Deaths",5093
+"1946","Maine","Deaths",134
+"1947","Maryland","Deaths",3799
+"1948","Massachusetts","Deaths",9125
+"1949","Michigan","Deaths",6809
+"1950","Minnesota","Deaths",1909
+"1951","Mississippi","Deaths",2584
+"1952","Missouri","Deaths",1739
+"1953","Montana","Deaths",117
+"1954","Nebraska","Deaths",415
+"1955","Nevada","Deaths",1394
+"1956","New Hampshire","Deaths",433
+"1957","New Jersey","Deaths",15989
+"1958","New Mexico","Deaths",803
+"1959","New York","Deaths",32585
+"1960","North Carolina","Deaths",2920
+"1961","North Dakota","Deaths",160
+"1962","Northern Mariana Islands","Deaths",2
+"1963","Ohio","Deaths",4259
+"1964","Oklahoma","Deaths",853
+"1965","Oregon","Deaths",483
+"1966","Pennsylvania","Deaths",7837
+"1967","Puerto Rico","Deaths",477
+"1968","Rhode Island","Deaths",1055
+"1969","South Carolina","Deaths",2887
+"1970","South Dakota","Deaths",173
+"1971","Tennessee","Deaths",1841
+"1972","Texas","Deaths",13739
+"1973","Utah","Deaths",423
+"1974","Vermont","Deaths",58
+"1975","Virgin Islands","Deaths",17
+"1976","Virginia","Deaths",2678
+"1977","Washington","Deaths",2043
+"1978","West Virginia","Deaths",246
+"1979","Wisconsin","Deaths",1177
+"1980","Wyoming","Deaths",42
+"1981","Alabama","Deaths",2276
+"1982","Alaska","Deaths",39
+"1983","Arizona","Deaths",5219
+"1984","Arkansas","Deaths",908
+"1985","California","Deaths",13763
+"1986","Colorado","Deaths",1980
+"1987","Connecticut","Deaths",4468
+"1988","Delaware","Deaths",609
+"1989","District of Columbia","Deaths",611
+"1990","Florida","Deaths",11870
+"1991","Georgia","Deaths",5907
+"1992","Guam","Deaths",19
+"1993","Hawaii","Deaths",85
+"1994","Idaho","Deaths",387
+"1995","Illinois","Deaths",8417
+"1996","Indiana","Deaths",3368
+"1997","Iowa","Deaths",1170
+"1998","Kansas","Deaths",485
+"1999","Kentucky","Deaths",1036
+"2000","Louisiana","Deaths",5105
+"2001","Maine","Deaths",134
+"2002","Maryland","Deaths",3804
+"2003","Massachusetts","Deaths",9133
+"2004","Michigan","Deaths",6813
+"2005","Minnesota","Deaths",1912
+"2006","Mississippi","Deaths",2585
+"2007","Missouri","Deaths",1739
+"2008","Montana","Deaths",118
+"2009","Nebraska","Deaths",415
+"2010","Nevada","Deaths",1394
+"2011","New Hampshire","Deaths",433
+"2012","New Jersey","Deaths",15991
+"2013","New Mexico","Deaths",807
+"2014","New York","Deaths",32600
+"2015","North Carolina","Deaths",2920
+"2016","North Dakota","Deaths",160
+"2017","Northern Mariana Islands","Deaths",2
+"2018","Ohio","Deaths",4276
+"2019","Oklahoma","Deaths",853
+"2020","Oregon","Deaths",487
+"2021","Pennsylvania","Deaths",7855
+"2022","Puerto Rico","Deaths",477
+"2023","Rhode Island","Deaths",1055
+"2024","South Carolina","Deaths",2907
+"2025","South Dakota","Deaths",173
+"2026","Tennessee","Deaths",1845
+"2027","Texas","Deaths",13781
+"2028","Utah","Deaths",424
+"2029","Vermont","Deaths",58
+"2030","Virgin Islands","Deaths",17
+"2031","Virginia","Deaths",2684
+"2032","Washington","Deaths",2043
+"2033","West Virginia","Deaths",247
+"2034","Wisconsin","Deaths",1177
+"2035","Wyoming","Deaths",42
+"2036","Alabama","Deaths",2277
+"2037","Alaska","Deaths",39
+"2038","Arizona","Deaths",5221
+"2039","Arkansas","Deaths",917
+"2040","California","Deaths",13843
+"2041","Colorado","Deaths",1980
+"2042","Connecticut","Deaths",4474
+"2043","Delaware","Deaths",609
+"2044","District of Columbia","Deaths",611
+"2045","Florida","Deaths",11914
+"2046","Georgia","Deaths",5931
+"2047","Guam","Deaths",20
+"2048","Hawaii","Deaths",87
+"2049","Idaho","Deaths",390
+"2050","Illinois","Deaths",8431
+"2051","Indiana","Deaths",3380
+"2052","Iowa","Deaths",1185
+"2053","Kansas","Deaths",486
+"2054","Kentucky","Deaths",1039
+"2055","Louisiana","Deaths",5118
+"2056","Maine","Deaths",134
+"2057","Maryland","Deaths",3807
+"2058","Massachusetts","Deaths",9141
+"2059","Michigan","Deaths",6814
+"2060","Minnesota","Deaths",1914
+"2061","Mississippi","Deaths",2585
+"2062","Missouri","Deaths",1746
+"2063","Montana","Deaths",119
+"2064","Nebraska","Deaths",418
+"2065","Nevada","Deaths",1395
+"2066","New Hampshire","Deaths",433
+"2067","New Jersey","Deaths",15996
+"2068","New Mexico","Deaths",807
+"2069","New York","Deaths",32612
+"2070","North Carolina","Deaths",2942
+"2071","North Dakota","Deaths",160
+"2072","Northern Mariana Islands","Deaths",2
+"2073","Ohio","Deaths",4298
+"2074","Oklahoma","Deaths",854
+"2075","Oregon","Deaths",492
+"2076","Pennsylvania","Deaths",7862
+"2077","Puerto Rico","Deaths",482
+"2078","Rhode Island","Deaths",1059
+"2079","South Carolina","Deaths",2912
+"2080","South Dakota","Deaths",173
+"2081","Tennessee","Deaths",1873
+"2082","Texas","Deaths",13855
+"2083","Utah","Deaths",426
+"2084","Vermont","Deaths",58
+"2085","Virgin Islands","Deaths",18
+"2086","Virginia","Deaths",2686
+"2087","Washington","Deaths",2045
+"2088","West Virginia","Deaths",250
+"2089","Wisconsin","Deaths",1179
+"2090","Wyoming","Deaths",42
+"2091","Alabama","Deaths",2285
+"2092","Alaska","Deaths",39
+"2093","Arizona","Deaths",5253
+"2094","Arkansas","Deaths",928
+"2095","California","Deaths",13990
+"2096","Colorado","Deaths",1984
+"2097","Connecticut","Deaths",4474
+"2098","Delaware","Deaths",609
+"2099","District of Columbia","Deaths",615
+"2100","Florida","Deaths",12114
+"2101","Georgia","Deaths",5987
+"2102","Guam","Deaths",21
+"2103","Hawaii","Deaths",90
+"2104","Idaho","Deaths",406
+"2105","Illinois","Deaths",8457
+"2106","Indiana","Deaths",3397
+"2107","Iowa","Deaths",1204
+"2108","Kansas","Deaths",497
+"2109","Kentucky","Deaths",1058
+"2110","Louisiana","Deaths",5140
+"2111","Maine","Deaths",134
+"2112","Maryland","Deaths",3816
+"2113","Massachusetts","Deaths",9146
+"2114","Michigan","Deaths",6889
+"2115","Minnesota","Deaths",1921
+"2116","Mississippi","Deaths",2623
+"2117","Missouri","Deaths",1755
+"2118","Montana","Deaths",122
+"2119","Nebraska","Deaths",434
+"2120","Nevada","Deaths",1414
+"2121","New Hampshire","Deaths",433
+"2122","New Jersey","Deaths",16009
+"2123","New Mexico","Deaths",813
+"2124","New York","Deaths",32611
+"2125","North Carolina","Deaths",2990
+"2126","North Dakota","Deaths",161
+"2127","Northern Mariana Islands","Deaths",2
+"2128","Ohio","Deaths",4324
+"2129","Oklahoma","Deaths",863
+"2130","Oregon","Deaths",499
+"2131","Pennsylvania","Deaths",7882
+"2132","Puerto Rico","Deaths",500
+"2133","Rhode Island","Deaths",1062
+"2134","South Carolina","Deaths",2942
+"2135","South Dakota","Deaths",173
+"2136","Tennessee","Deaths",1908
+"2137","Texas","Deaths",13986
+"2138","Utah","Deaths",428
+"2139","Vermont","Deaths",58
+"2140","Virgin Islands","Deaths",18
+"2141","Virginia","Deaths",2697
+"2142","Washington","Deaths",2066
+"2143","West Virginia","Deaths",254
+"2144","Wisconsin","Deaths",1193
+"2145","Wyoming","Deaths",42
+"2146","Alabama","Deaths",2301
+"2147","Alaska","Deaths",39
+"2148","Arizona","Deaths",5275
+"2149","Arkansas","Deaths",940
+"2150","California","Deaths",14094
+"2151","Colorado","Deaths",1988
+"2152","Connecticut","Deaths",4478
+"2153","Delaware","Deaths",613
+"2154","District of Columbia","Deaths",616
+"2155","Florida","Deaths",12325
+"2156","Georgia","Deaths",6062
+"2157","Guam","Deaths",22
+"2158","Hawaii","Deaths",93
+"2159","Idaho","Deaths",407
+"2160","Illinois","Deaths",8480
+"2161","Indiana","Deaths",3410
+"2162","Iowa","Deaths",1208
+"2163","Kansas","Deaths",499
+"2164","Kentucky","Deaths",1073
+"2165","Louisiana","Deaths",5161
+"2166","Maine","Deaths",134
+"2167","Maryland","Deaths",3824
+"2168","Massachusetts","Deaths",9166
+"2169","Michigan","Deaths",6894
+"2170","Minnesota","Deaths",1936
+"2171","Mississippi","Deaths",2656
+"2172","Missouri","Deaths",1773
+"2173","Montana","Deaths",123
+"2174","Nebraska","Deaths",440
+"2175","Nevada","Deaths",1432
+"2176","New Hampshire","Deaths",434
+"2177","New Jersey","Deaths",16014
+"2178","New Mexico","Deaths",816
+"2179","New York","Deaths",32618
+"2180","North Carolina","Deaths",3016
+"2181","North Dakota","Deaths",163
+"2182","Northern Mariana Islands","Deaths",2
+"2183","Ohio","Deaths",4354
+"2184","Oklahoma","Deaths",876
+"2185","Oregon","Deaths",501
+"2186","Pennsylvania","Deaths",7894
+"2187","Puerto Rico","Deaths",512
+"2188","Rhode Island","Deaths",1067
+"2189","South Carolina","Deaths",2975
+"2190","South Dakota","Deaths",177
+"2191","Tennessee","Deaths",1963
+"2192","Texas","Deaths",13998
+"2193","Utah","Deaths",431
+"2194","Vermont","Deaths",58
+"2195","Virgin Islands","Deaths",18
+"2196","Virginia","Deaths",2708
+"2197","Washington","Deaths",2073
+"2198","West Virginia","Deaths",257
+"2199","Wisconsin","Deaths",1202
+"2200","Wyoming","Deaths",42
+"2201","Alabama","Deaths",2333
+"2202","Alaska","Deaths",40
+"2203","Arizona","Deaths",5290
+"2204","Arkansas","Deaths",953
+"2205","California","Deaths",14265
+"2206","Colorado","Deaths",1991
+"2207","Connecticut","Deaths",4480
+"2208","Delaware","Deaths",613
+"2209","District of Columbia","Deaths",616
+"2210","Florida","Deaths",12501
+"2211","Georgia","Deaths",6103
+"2212","Guam","Deaths",24
+"2213","Hawaii","Deaths",95
+"2214","Idaho","Deaths",415
+"2215","Illinois","Deaths",8522
+"2216","Indiana","Deaths",3420
+"2217","Iowa","Deaths",1216
+"2218","Kansas","Deaths",520
+"2219","Kentucky","Deaths",1087
+"2220","Louisiana","Deaths",5202
+"2221","Maine","Deaths",134
+"2222","Maryland","Deaths",3828
+"2223","Massachusetts","Deaths",9180
+"2224","Michigan","Deaths",6900
+"2225","Minnesota","Deaths",1949
+"2226","Mississippi","Deaths",2670
+"2227","Missouri","Deaths",1784
+"2228","Montana","Deaths",132
+"2229","Nebraska","Deaths",449
+"2230","Nevada","Deaths",1441
+"2231","New Hampshire","Deaths",434
+"2232","New Jersey","Deaths",16023
+"2233","New Mexico","Deaths",818
+"2234","New York","Deaths",32619
+"2235","North Carolina","Deaths",3050
+"2236","North Dakota","Deaths",167
+"2237","Northern Mariana Islands","Deaths",2
+"2238","Ohio","Deaths",4403
+"2239","Oklahoma","Deaths",888
+"2240","Oregon","Deaths",500
+"2241","Pennsylvania","Deaths",7914
+"2242","Puerto Rico","Deaths",523
+"2243","Rhode Island","Deaths",1071
+"2244","South Carolina","Deaths",3028
+"2245","South Dakota","Deaths",177
+"2246","Tennessee","Deaths",1999
+"2247","Texas","Deaths",14279
+"2248","Utah","Deaths",433
+"2249","Vermont","Deaths",58
+"2250","Virgin Islands","Deaths",18
+"2251","Virginia","Deaths",2711
+"2252","Washington","Deaths",2079
+"2253","West Virginia","Deaths",263
+"2254","Wisconsin","Deaths",1206
+"2255","Wyoming","Deaths",42
+"2256","Alabama","Deaths",2350
+"2257","Alaska","Deaths",41
+"2258","Arizona","Deaths",5316
+"2259","Arkansas","Deaths",969
+"2260","California","Deaths",14333
+"2261","Colorado","Deaths",1994
+"2262","Connecticut","Deaths",4480
+"2263","Delaware","Deaths",613
+"2264","District of Columbia","Deaths",616
+"2265","Florida","Deaths",12599
+"2266","Georgia","Deaths",6144
+"2267","Guam","Deaths",24
+"2268","Hawaii","Deaths",96
+"2269","Idaho","Deaths",416
+"2270","Illinois","Deaths",8546
+"2271","Indiana","Deaths",3437
+"2272","Iowa","Deaths",1218
+"2273","Kansas","Deaths",533
+"2274","Kentucky","Deaths",1099
+"2275","Louisiana","Deaths",5202
+"2276","Maine","Deaths",135
+"2277","Maryland","Deaths",3836
+"2278","Massachusetts","Deaths",9196
+"2279","Michigan","Deaths",6912
+"2280","Minnesota","Deaths",1958
+"2281","Mississippi","Deaths",2685
+"2282","Missouri","Deaths",1802
+"2283","Montana","Deaths",134
+"2284","Nebraska","Deaths",449
+"2285","Nevada","Deaths",1453
+"2286","New Hampshire","Deaths",435
+"2287","New Jersey","Deaths",16027
+"2288","New Mexico","Deaths",821
+"2289","New York","Deaths",32625
+"2290","North Carolina","Deaths",3073
+"2291","North Dakota","Deaths",170
+"2292","Northern Mariana Islands","Deaths",2
+"2293","Ohio","Deaths",4411
+"2294","Oklahoma","Deaths",899
+"2295","Oregon","Deaths",505
+"2296","Pennsylvania","Deaths",7915
+"2297","Puerto Rico","Deaths",535
+"2298","Rhode Island","Deaths",1071
+"2299","South Carolina","Deaths",3040
+"2300","South Dakota","Deaths",183
+"2301","Tennessee","Deaths",2040
+"2302","Texas","Deaths",14384
+"2303","Utah","Deaths",434
+"2304","Vermont","Deaths",58
+"2305","Virgin Islands","Deaths",19
+"2306","Virginia","Deaths",2722
+"2307","Washington","Deaths",2079
+"2308","West Virginia","Deaths",265
+"2309","Wisconsin","Deaths",1218
+"2310","Wyoming","Deaths",42
+"2311","Alabama","Deaths",2351
+"2312","Alaska","Deaths",41
+"2313","Arizona","Deaths",5322
+"2314","Arkansas","Deaths",981
+"2315","California","Deaths",14386
+"2316","Colorado","Deaths",1994
+"2317","Connecticut","Deaths",4480
+"2318","Delaware","Deaths",615
+"2319","District of Columbia","Deaths",616
+"2320","Florida","Deaths",12607
+"2321","Georgia","Deaths",6191
+"2322","Guam","Deaths",24
+"2323","Hawaii","Deaths",98
+"2324","Idaho","Deaths",416
+"2325","Illinois","Deaths",8562
+"2326","Indiana","Deaths",3438
+"2327","Iowa","Deaths",1220
+"2328","Kansas","Deaths",536
+"2329","Kentucky","Deaths",1102
+"2330","Louisiana","Deaths",5235
+"2331","Maine","Deaths",136
+"2332","Maryland","Deaths",3838
+"2333","Massachusetts","Deaths",9210
+"2334","Michigan","Deaths",6912
+"2335","Minnesota","Deaths",1971
+"2336","Mississippi","Deaths",2697
+"2337","Missouri","Deaths",1812
+"2338","Montana","Deaths",136
+"2339","Nebraska","Deaths",449
+"2340","Nevada","Deaths",1454
+"2341","New Hampshire","Deaths",436
+"2342","New Jersey","Deaths",16031
+"2343","New Mexico","Deaths",823
+"2344","New York","Deaths",32629
+"2345","North Carolina","Deaths",3080
+"2346","North Dakota","Deaths",171
+"2347","Northern Mariana Islands","Deaths",2
+"2348","Ohio","Deaths",4415
+"2349","Oklahoma","Deaths",905
+"2350","Oregon","Deaths",509
+"2351","Pennsylvania","Deaths",7915
+"2352","Puerto Rico","Deaths",539
+"2353","Rhode Island","Deaths",1071
+"2354","South Carolina","Deaths",3064
+"2355","South Dakota","Deaths",184
+"2356","Tennessee","Deaths",2055
+"2357","Texas","Deaths",14458
+"2358","Utah","Deaths",434
+"2359","Vermont","Deaths",58
+"2360","Virgin Islands","Deaths",19
+"2361","Virginia","Deaths",2724
+"2362","Washington","Deaths",2079
+"2363","West Virginia","Deaths",266
+"2364","Wisconsin","Deaths",1219
+"2365","Wyoming","Deaths",42
+"2366","Alabama","Deaths",2355
+"2367","Alaska","Deaths",41
+"2368","Arizona","Deaths",5322
+"2369","Arkansas","Deaths",992
+"2370","California","Deaths",14458
+"2371","Colorado","Deaths",2000
+"2372","Connecticut","Deaths",4485
+"2373","Delaware","Deaths",617
+"2374","District of Columbia","Deaths",616
+"2375","Florida","Deaths",12641
+"2376","Georgia","Deaths",6211
+"2377","Guam","Deaths",27
+"2378","Hawaii","Deaths",98
+"2379","Idaho","Deaths",420
+"2380","Illinois","Deaths",8571
+"2381","Indiana","Deaths",3439
+"2382","Iowa","Deaths",1233
+"2383","Kansas","Deaths",546
+"2384","Kentucky","Deaths",1105
+"2385","Louisiana","Deaths",5252
+"2386","Maine","Deaths",136
+"2387","Maryland","Deaths",3839
+"2388","Massachusetts","Deaths",9219
+"2389","Michigan","Deaths",6922
+"2390","Minnesota","Deaths",1974
+"2391","Mississippi","Deaths",2706
+"2392","Missouri","Deaths",1812
+"2393","Montana","Deaths",139
+"2394","Nebraska","Deaths",450
+"2395","Nevada","Deaths",1456
+"2396","New Hampshire","Deaths",436
+"2397","New Jersey","Deaths",16034
+"2398","New Mexico","Deaths",823
+"2399","New York","Deaths",32639
+"2400","North Carolina","Deaths",3094
+"2401","North Dakota","Deaths",173
+"2402","Northern Mariana Islands","Deaths",2
+"2403","Ohio","Deaths",4419
+"2404","Oklahoma","Deaths",905
+"2405","Oregon","Deaths",511
+"2406","Pennsylvania","Deaths",7940
+"2407","Puerto Rico","Deaths",542
+"2408","Rhode Island","Deaths",1075
+"2409","South Carolina","Deaths",3077
+"2410","South Dakota","Deaths",184
+"2411","Tennessee","Deaths",2073
+"2412","Texas","Deaths",14508
+"2413","Utah","Deaths",436
+"2414","Vermont","Deaths",58
+"2415","Virgin Islands","Deaths",19
+"2416","Virginia","Deaths",2743
+"2417","Washington","Deaths",2095
+"2418","West Virginia","Deaths",275
+"2419","Wisconsin","Deaths",1219
+"2420","Wyoming","Deaths",46
+"2421","Alabama","Deaths",2387
+"2422","Alaska","Deaths",41
+"2423","Arizona","Deaths",5346
+"2424","Arkansas","Deaths",1150
+"2425","California","Deaths",14606
+"2426","Colorado","Deaths",2006
+"2427","Connecticut","Deaths",4485
+"2428","Delaware","Deaths",618
+"2429","District of Columbia","Deaths",616
+"2430","Florida","Deaths",12786
+"2431","Georgia","Deaths",6255
+"2432","Guam","Deaths",29
+"2433","Hawaii","Deaths",99
+"2434","Idaho","Deaths",425
+"2435","Illinois","Deaths",8589
+"2436","Indiana","Deaths",3460
+"2437","Iowa","Deaths",1234
+"2438","Kansas","Deaths",555
+"2439","Kentucky","Deaths",1112
+"2440","Louisiana","Deaths",5278
+"2441","Maine","Deaths",137
+"2442","Maryland","Deaths",3849
+"2443","Massachusetts","Deaths",9225
+"2444","Michigan","Deaths",6933
+"2445","Minnesota","Deaths",1979
+"2446","Mississippi","Deaths",2734
+"2447","Missouri","Deaths",1830
+"2448","Montana","Deaths",141
+"2449","Nebraska","Deaths",451
+"2450","Nevada","Deaths",1484
+"2451","New Hampshire","Deaths",438
+"2452","New Jersey","Deaths",16043
+"2453","New Mexico","Deaths",830
+"2454","New York","Deaths",32655
+"2455","North Carolina","Deaths",3135
+"2456","North Dakota","Deaths",175
+"2457","Northern Mariana Islands","Deaths",2
+"2458","Ohio","Deaths",4506
+"2459","Oklahoma","Deaths",912
+"2460","Oregon","Deaths",519
+"2461","Pennsylvania","Deaths",7945
+"2462","Puerto Rico","Deaths",551
+"2463","Rhode Island","Deaths",1078
+"2464","South Carolina","Deaths",3098
+"2465","South Dakota","Deaths",184
+"2466","Tennessee","Deaths",2102
+"2467","Texas","Deaths",14661
+"2468","Utah","Deaths",436
+"2469","Vermont","Deaths",58
+"2470","Virgin Islands","Deaths",19
+"2471","Virginia","Deaths",2839
+"2472","Washington","Deaths",2107
+"2473","West Virginia","Deaths",280
+"2474","Wisconsin","Deaths",1230
+"2475","Wyoming","Deaths",46
+"2476","Alabama","Deaths",2392
+"2477","Alaska","Deaths",41
+"2478","Arizona","Deaths",5376
+"2479","Arkansas","Deaths",1157
+"2480","California","Deaths",14716
+"2481","Colorado","Deaths",2010
+"2482","Connecticut","Deaths",4487
+"2483","Delaware","Deaths",619
+"2484","District of Columbia","Deaths",617
+"2485","Florida","Deaths",12938
+"2486","Georgia","Deaths",6276
+"2487","Guam","Deaths",29
+"2488","Hawaii","Deaths",102
+"2489","Idaho","Deaths",430
+"2490","Illinois","Deaths",8622
+"2491","Indiana","Deaths",3472
+"2492","Iowa","Deaths",1248
+"2493","Kansas","Deaths",586
+"2494","Kentucky","Deaths",1118
+"2495","Louisiana","Deaths",5294
+"2496","Maine","Deaths",138
+"2497","Maryland","Deaths",3855
+"2498","Massachusetts","Deaths",9245
+"2499","Michigan","Deaths",6944
+"2500","Minnesota","Deaths",1985
+"2501","Mississippi","Deaths",2756
+"2502","Missouri","Deaths",1844
+"2503","Montana","Deaths",141
+"2504","Nebraska","Deaths",455
+"2505","Nevada","Deaths",1496
+"2506","New Hampshire","Deaths",438
+"2507","New Jersey","Deaths",16054
+"2508","New Mexico","Deaths",832
+"2509","New York","Deaths",32662
+"2510","North Carolina","Deaths",3176
+"2511","North Dakota","Deaths",180
+"2512","Northern Mariana Islands","Deaths",2
+"2513","Ohio","Deaths",4555
+"2514","Oklahoma","Deaths",924
+"2515","Oregon","Deaths",521
+"2516","Pennsylvania","Deaths",7963
+"2517","Puerto Rico","Deaths",570
+"2518","Rhode Island","Deaths",1081
+"2519","South Carolina","Deaths",3132
+"2520","South Dakota","Deaths",192
+"2521","Tennessee","Deaths",2127
+"2522","Texas","Deaths",14803
+"2523","Utah","Deaths",437
+"2524","Vermont","Deaths",58
+"2525","Virgin Islands","Deaths",19
+"2526","Virginia","Deaths",2884
+"2527","Washington","Deaths",2113
+"2528","West Virginia","Deaths",290
+"2529","Wisconsin","Deaths",1238
+"2530","Wyoming","Deaths",46
+"2531","Alabama","Deaths",2401
+"2532","Alaska","Deaths",41
+"2533","Arizona","Deaths",5411
+"2534","Arkansas","Deaths",1166
+"2535","California","Deaths",14807
+"2536","Colorado","Deaths",2016
+"2537","Connecticut","Deaths",4488
+"2538","Delaware","Deaths",619
+"2539","District of Columbia","Deaths",619
+"2540","Florida","Deaths",13085
+"2541","Georgia","Deaths",6328
+"2542","Guam","Deaths",31
+"2543","Hawaii","Deaths",106
+"2544","Idaho","Deaths",435
+"2545","Illinois","Deaths",8643
+"2546","Indiana","Deaths",3478
+"2547","Iowa","Deaths",1257
+"2548","Kansas","Deaths",586
+"2549","Kentucky","Deaths",1127
+"2550","Louisiana","Deaths",5311
+"2551","Maine","Deaths",138
+"2552","Maryland","Deaths",3861
+"2553","Massachusetts","Deaths",9260
+"2554","Michigan","Deaths",6956
+"2555","Minnesota","Deaths",1994
+"2556","Mississippi","Deaths",2780
+"2557","Missouri","Deaths",1864
+"2558","Montana","Deaths",143
+"2559","Nebraska","Deaths",457
+"2560","Nevada","Deaths",1509
+"2561","New Hampshire","Deaths",438
+"2562","New Jersey","Deaths",16057
+"2563","New Mexico","Deaths",836
+"2564","New York","Deaths",32669
+"2565","North Carolina","Deaths",3208
+"2566","North Dakota","Deaths",185
+"2567","Northern Mariana Islands","Deaths",2
+"2568","Ohio","Deaths",4580
+"2569","Oklahoma","Deaths",930
+"2570","Oregon","Deaths",521
+"2571","Pennsylvania","Deaths",7978
+"2572","Puerto Rico","Deaths",588
+"2573","Rhode Island","Deaths",1085
+"2574","South Carolina","Deaths",3158
+"2575","South Dakota","Deaths",193
+"2576","Tennessee","Deaths",2141
+"2577","Texas","Deaths",14909
+"2578","Utah","Deaths",437
+"2579","Vermont","Deaths",58
+"2580","Virgin Islands","Deaths",19
+"2581","Virginia","Deaths",2920
+"2582","Washington","Deaths",2123
+"2583","West Virginia","Deaths",294
+"2584","Wisconsin","Deaths",1240
+"2585","Wyoming","Deaths",49
+"2586","Alabama","Deaths",2428
+"2587","Alaska","Deaths",42
+"2588","Arizona","Deaths",5455
+"2589","Arkansas","Deaths",1173
+"2590","California","Deaths",14912
+"2591","Colorado","Deaths",2020
+"2592","Connecticut","Deaths",4492
+"2593","Delaware","Deaths",620
+"2594","District of Columbia","Deaths",619
+"2595","Florida","Deaths",13224
+"2596","Georgia","Deaths",6390
+"2597","Guam","Deaths",34
+"2598","Hawaii","Deaths",119
+"2599","Idaho","Deaths",439
+"2600","Illinois","Deaths",8666
+"2601","Indiana","Deaths",3495
+"2602","Iowa","Deaths",1264
+"2603","Kansas","Deaths",596
+"2604","Kentucky","Deaths",1132
+"2605","Louisiana","Deaths",5340
+"2606","Maine","Deaths",138
+"2607","Maryland","Deaths",3869
+"2608","Massachusetts","Deaths",9269
+"2609","Michigan","Deaths",6955
+"2610","Minnesota","Deaths",2002
+"2611","Mississippi","Deaths",2792
+"2612","Missouri","Deaths",1892
+"2613","Montana","Deaths",146
+"2614","Nebraska","Deaths",457
+"2615","Nevada","Deaths",1526
+"2616","New Hampshire","Deaths",438
+"2617","New Jersey","Deaths",16061
+"2618","New Mexico","Deaths",841
+"2619","New York","Deaths",32682
+"2620","North Carolina","Deaths",3232
+"2621","North Dakota","Deaths",187
+"2622","Northern Mariana Islands","Deaths",2
+"2623","Ohio","Deaths",4608
+"2624","Oklahoma","Deaths",939
+"2625","Oregon","Deaths",524
+"2626","Pennsylvania","Deaths",8006
+"2627","Puerto Rico","Deaths",599
+"2628","Rhode Island","Deaths",1088
+"2629","South Carolina","Deaths",3177
+"2630","South Dakota","Deaths",198
+"2631","Tennessee","Deaths",2173
+"2632","Texas","Deaths",15037
+"2633","Utah","Deaths",437
+"2634","Vermont","Deaths",58
+"2635","Virgin Islands","Deaths",19
+"2636","Virginia","Deaths",2949
+"2637","Washington","Deaths",2130
+"2638","West Virginia","Deaths",297
+"2639","Wisconsin","Deaths",1247
+"2640","Wyoming","Deaths",49
+"2641","Alabama","Deaths",2437
+"2642","Alaska","Deaths",42
+"2643","Arizona","Deaths",5471
+"2644","Arkansas","Deaths",1181
+"2645","California","Deaths",15023
+"2646","Colorado","Deaths",2022
+"2647","Connecticut","Deaths",4492
+"2648","Delaware","Deaths",621
+"2649","District of Columbia","Deaths",619
+"2650","Florida","Deaths",13286
+"2651","Georgia","Deaths",6450
+"2652","Guam","Deaths",35
+"2653","Hawaii","Deaths",119
+"2654","Idaho","Deaths",441
+"2655","Illinois","Deaths",8688
+"2656","Indiana","Deaths",3503
+"2657","Iowa","Deaths",1265
+"2658","Kansas","Deaths",596
+"2659","Kentucky","Deaths",1137
+"2660","Louisiana","Deaths",5340
+"2661","Maine","Deaths",139
+"2662","Maryland","Deaths",3876
+"2663","Massachusetts","Deaths",9295
+"2664","Michigan","Deaths",6970
+"2665","Minnesota","Deaths",2015
+"2666","Mississippi","Deaths",2809
+"2667","Missouri","Deaths",1905
+"2668","Montana","Deaths",156
+"2669","Nebraska","Deaths",457
+"2670","Nevada","Deaths",1528
+"2671","New Hampshire","Deaths",438
+"2672","New Jersey","Deaths",16064
+"2673","New Mexico","Deaths",847
+"2674","New York","Deaths",32679
+"2675","North Carolina","Deaths",3260
+"2676","North Dakota","Deaths",195
+"2677","Northern Mariana Islands","Deaths",2
+"2678","Ohio","Deaths",4612
+"2679","Oklahoma","Deaths",943
+"2680","Oregon","Deaths",527
+"2681","Pennsylvania","Deaths",8028
+"2682","Puerto Rico","Deaths",605
+"2683","Rhode Island","Deaths",1088
+"2684","South Carolina","Deaths",3188
+"2685","South Dakota","Deaths",200
+"2686","Tennessee","Deaths",2193
+"2687","Texas","Deaths",15124
+"2688","Utah","Deaths",440
+"2689","Vermont","Deaths",58
+"2690","Virgin Islands","Deaths",19
+"2691","Virginia","Deaths",2990
+"2692","Washington","Deaths",2130
+"2693","West Virginia","Deaths",308
+"2694","Wisconsin","Deaths",1249
+"2695","Wyoming","Deaths",49
+"2696","Alabama","Deaths",2437
+"2697","Alaska","Deaths",42
+"2698","Arizona","Deaths",5480
+"2699","Arkansas","Deaths",1181
+"2700","California","Deaths",15018
+"2701","Colorado","Deaths",2023
+"2702","Connecticut","Deaths",4492
+"2703","Delaware","Deaths",621
+"2704","District of Columbia","Deaths",620
+"2705","Florida","Deaths",13295
+"2706","Georgia","Deaths",6453
+"2707","Guam","Deaths",35
+"2708","Hawaii","Deaths",119
+"2709","Idaho","Deaths",443
+"2710","Illinois","Deaths",8700
+"2711","Indiana","Deaths",3506
+"2712","Iowa","Deaths",1265
+"2713","Kansas","Deaths",597
+"2714","Kentucky","Deaths",1139
+"2715","Louisiana","Deaths",5366
+"2716","Maine","Deaths",139
+"2717","Maryland","Deaths",3879
+"2718","Massachusetts","Deaths",9310
+"2719","Michigan","Deaths",6971
+"2720","Minnesota","Deaths",2017
+"2721","Mississippi","Deaths",2810
+"2722","Missouri","Deaths",1896
+"2723","Montana","Deaths",157
+"2724","Nebraska","Deaths",457
+"2725","Nevada","Deaths",1532
+"2726","New Hampshire","Deaths",438
+"2727","New Jersey","Deaths",16067
+"2728","New Mexico","Deaths",849
+"2729","New York","Deaths",32686
+"2730","North Carolina","Deaths",3270
+"2731","North Dakota","Deaths",195
+"2732","Northern Mariana Islands","Deaths",2
+"2733","Ohio","Deaths",4615
+"2734","Oklahoma","Deaths",946
+"2735","Oregon","Deaths",528
+"2736","Pennsylvania","Deaths",8049
+"2737","Puerto Rico","Deaths",608
+"2738","Rhode Island","Deaths",1088
+"2739","South Carolina","Deaths",3199
+"2740","South Dakota","Deaths",202
+"2741","Tennessee","Deaths",2195
+"2742","Texas","Deaths",15159
+"2743","Utah","Deaths",440
+"2744","Vermont","Deaths",58
+"2745","Virgin Islands","Deaths",19
+"2746","Virginia","Deaths",3015
+"2747","Washington","Deaths",2130
+"2748","West Virginia","Deaths",310
+"2749","Wisconsin","Deaths",1250
+"2750","Wyoming","Deaths",49
+"2751","Alabama","Deaths",2439
+"2752","Alaska","Deaths",42
+"2753","Arizona","Deaths",5482
+"2754","Arkansas","Deaths",1197
+"2755","California","Deaths",15069
+"2756","Colorado","Deaths",2031
+"2757","Connecticut","Deaths",4495
+"2758","Delaware","Deaths",627
+"2759","District of Columbia","Deaths",621
+"2760","Florida","Deaths",13316
+"2761","Georgia","Deaths",6455
+"2762","Guam","Deaths",36
+"2763","Hawaii","Deaths",119
+"2764","Idaho","Deaths",447
+"2765","Illinois","Deaths",8717
+"2766","Indiana","Deaths",3512
+"2767","Iowa","Deaths",1284
+"2768","Kansas","Deaths",604
+"2769","Kentucky","Deaths",1141
+"2770","Louisiana","Deaths",5375
+"2771","Maine","Deaths",140
+"2772","Maryland","Deaths",3883
+"2773","Massachusetts","Deaths",9317
+"2774","Michigan","Deaths",6982
+"2775","Minnesota","Deaths",2021
+"2776","Mississippi","Deaths",2810
+"2777","Missouri","Deaths",1936
+"2778","Montana","Deaths",160
+"2779","Nebraska","Deaths",464
+"2780","Nevada","Deaths",1531
+"2781","New Hampshire","Deaths",438
+"2782","New Jersey","Deaths",16069
+"2783","New Mexico","Deaths",851
+"2784","New York","Deaths",32691
+"2785","North Carolina","Deaths",3283
+"2786","North Dakota","Deaths",196
+"2787","Northern Mariana Islands","Deaths",2
+"2788","Ohio","Deaths",4623
+"2789","Oklahoma","Deaths",948
+"2790","Oregon","Deaths",532
+"2791","Pennsylvania","Deaths",8080
+"2792","Puerto Rico","Deaths",609
+"2793","Rhode Island","Deaths",1097
+"2794","South Carolina","Deaths",3212
+"2795","South Dakota","Deaths",202
+"2796","Tennessee","Deaths",2209
+"2797","Texas","Deaths",15212
+"2798","Utah","Deaths",441
+"2799","Vermont","Deaths",58
+"2800","Virgin Islands","Deaths",19
+"2801","Virginia","Deaths",3021
+"2802","Washington","Deaths",2137
+"2803","West Virginia","Deaths",312
+"2804","Wisconsin","Deaths",1253
+"2805","Wyoming","Deaths",49
+"2806","Alabama","Deaths",2457
+"2807","Alaska","Deaths",42
+"2808","Arizona","Deaths",5501
+"2809","Arkansas","Deaths",1209
+"2810","California","Deaths",15209
+"2811","Colorado","Deaths",2034
+"2812","Connecticut","Deaths",4496
+"2813","Delaware","Deaths",628
+"2814","District of Columbia","Deaths",621
+"2815","Florida","Deaths",13415
+"2816","Georgia","Deaths",6524
+"2817","Guam","Deaths",38
+"2818","Hawaii","Deaths",119
+"2819","Idaho","Deaths",452
+"2820","Illinois","Deaths",8741
+"2821","Indiana","Deaths",3520
+"2822","Iowa","Deaths",1293
+"2823","Kansas","Deaths",618
+"2824","Kentucky","Deaths",1148
+"2825","Louisiana","Deaths",5386
+"2826","Maine","Deaths",140
+"2827","Maryland","Deaths",3895
+"2828","Massachusetts","Deaths",9328
+"2829","Michigan","Deaths",6998
+"2830","Minnesota","Deaths",2031
+"2831","Mississippi","Deaths",2846
+"2832","Missouri","Deaths",1974
+"2833","Montana","Deaths",163
+"2834","Nebraska","Deaths",473
+"2835","Nevada","Deaths",1546
+"2836","New Hampshire","Deaths",438
+"2837","New Jersey","Deaths",16076
+"2838","New Mexico","Deaths",854
+"2839","New York","Deaths",32690
+"2840","North Carolina","Deaths",3320
+"2841","North Dakota","Deaths",199
+"2842","Northern Mariana Islands","Deaths",2
+"2843","Ohio","Deaths",4635
+"2844","Oklahoma","Deaths",962
+"2845","Oregon","Deaths",535
+"2846","Pennsylvania","Deaths",8099
+"2847","Puerto Rico","Deaths",613
+"2848","Rhode Island","Deaths",1099
+"2849","South Carolina","Deaths",3243
+"2850","South Dakota","Deaths",202
+"2851","Tennessee","Deaths",2236
+"2852","Texas","Deaths",15322
+"2853","Utah","Deaths",443
+"2854","Vermont","Deaths",58
+"2855","Virgin Islands","Deaths",19
+"2856","Virginia","Deaths",3060
+"2857","Washington","Deaths",2163
+"2858","West Virginia","Deaths",317
+"2859","Wisconsin","Deaths",1259
+"2860","Wyoming","Deaths",49
+"2861","Alabama","Deaths",2488
+"2862","Alaska","Deaths",42
+"2863","Arizona","Deaths",5526
+"2864","Arkansas","Deaths",1229
+"2865","California","Deaths",15313
+"2866","Colorado","Deaths",2038
+"2867","Connecticut","Deaths",4497
+"2868","Delaware","Deaths",629
+"2869","District of Columbia","Deaths",621
+"2870","Florida","Deaths",13617
+"2871","Georgia","Deaths",6620
+"2872","Guam","Deaths",38
+"2873","Hawaii","Deaths",121
+"2874","Idaho","Deaths",454
+"2875","Illinois","Deaths",8762
+"2876","Indiana","Deaths",3530
+"2877","Iowa","Deaths",1298
+"2878","Kansas","Deaths",629
+"2879","Kentucky","Deaths",1161
+"2880","Louisiana","Deaths",5407
+"2881","Maine","Deaths",140
+"2882","Maryland","Deaths",3902
+"2883","Massachusetts","Deaths",9347
+"2884","Michigan","Deaths",7013
+"2885","Minnesota","Deaths",2037
+"2886","Mississippi","Deaths",2870
+"2887","Missouri","Deaths",2035
+"2888","Montana","Deaths",165
+"2889","Nebraska","Deaths",477
+"2890","Nevada","Deaths",1556
+"2891","New Hampshire","Deaths",438
+"2892","New Jersey","Deaths",16082
+"2893","New Mexico","Deaths",857
+"2894","New York","Deaths",32691
+"2895","North Carolina","Deaths",3345
+"2896","North Dakota","Deaths",206
+"2897","Northern Mariana Islands","Deaths",2
+"2898","Ohio","Deaths",4687
+"2899","Oklahoma","Deaths",970
+"2900","Oregon","Deaths",538
+"2901","Pennsylvania","Deaths",8137
+"2902","Puerto Rico","Deaths",617
+"2903","Rhode Island","Deaths",1102
+"2904","South Carolina","Deaths",3262
+"2905","South Dakota","Deaths",202
+"2906","Tennessee","Deaths",2252
+"2907","Texas","Deaths",15455
+"2908","Utah","Deaths",444
+"2909","Vermont","Deaths",58
+"2910","Virgin Islands","Deaths",19
+"2911","Virginia","Deaths",3089
+"2912","Washington","Deaths",2175
+"2913","West Virginia","Deaths",319
+"2914","Wisconsin","Deaths",1269
+"2915","Wyoming","Deaths",50
+"2916","Alabama","Deaths",2506
+"2917","Alaska","Deaths",43
+"2918","Arizona","Deaths",5560
+"2919","Arkansas","Deaths",1246
+"2920","California","Deaths",15389
+"2921","Colorado","Deaths",2042
+"2922","Connecticut","Deaths",4499
+"2923","Delaware","Deaths",630
+"2924","District of Columbia","Deaths",621
+"2925","Florida","Deaths",13794
+"2926","Georgia","Deaths",6667
+"2927","Guam","Deaths",39
+"2928","Hawaii","Deaths",123
+"2929","Idaho","Deaths",458
+"2930","Illinois","Deaths",8793
+"2931","Indiana","Deaths",3548
+"2932","Iowa","Deaths",1303
+"2933","Kansas","Deaths",633
+"2934","Kentucky","Deaths",1166
+"2935","Louisiana","Deaths",5423
+"2936","Maine","Deaths",140
+"2937","Maryland","Deaths",3909
+"2938","Massachusetts","Deaths",9362
+"2939","Michigan","Deaths",7020
+"2940","Minnesota","Deaths",2040
+"2941","Mississippi","Deaths",2874
+"2942","Missouri","Deaths",2055
+"2943","Montana","Deaths",165
+"2944","Nebraska","Deaths",478
+"2945","Nevada","Deaths",1565
+"2946","New Hampshire","Deaths",438
+"2947","New Jersey","Deaths",16091
+"2948","New Mexico","Deaths",859
+"2949","New York","Deaths",32696
+"2950","North Carolina","Deaths",3380
+"2951","North Dakota","Deaths",215
+"2952","Northern Mariana Islands","Deaths",2
+"2953","Ohio","Deaths",4715
+"2954","Oklahoma","Deaths",981
+"2955","Oregon","Deaths",540
+"2956","Pennsylvania","Deaths",8150
+"2957","Puerto Rico","Deaths",627
+"2958","Rhode Island","Deaths",1106
+"2959","South Carolina","Deaths",3279
+"2960","South Dakota","Deaths",210
+"2961","Tennessee","Deaths",2287
+"2962","Texas","Deaths",15587
+"2963","Utah","Deaths",444
+"2964","Vermont","Deaths",58
+"2965","Virgin Islands","Deaths",19
+"2966","Virginia","Deaths",3113
+"2967","Washington","Deaths",2175
+"2968","West Virginia","Deaths",325
+"2969","Wisconsin","Deaths",1275
+"2970","Wyoming","Deaths",50
+"2971","Alabama","Deaths",2491
+"2972","Alaska","Deaths",48
+"2973","Arizona","Deaths",5588
+"2974","Arkansas","Deaths",1266
+"2975","California","Deaths",15533
+"2976","Colorado","Deaths",2045
+"2977","Connecticut","Deaths",4501
+"2978","Delaware","Deaths",631
+"2979","District of Columbia","Deaths",623
+"2980","Florida","Deaths",13914
+"2981","Georgia","Deaths",6717
+"2982","Guam","Deaths",40
+"2983","Hawaii","Deaths",126
+"2984","Idaho","Deaths",458
+"2985","Illinois","Deaths",8826
+"2986","Indiana","Deaths",3566
+"2987","Iowa","Deaths",1312
+"2988","Kansas","Deaths",634
+"2989","Kentucky","Deaths",1179
+"2990","Louisiana","Deaths",5444
+"2991","Maine","Deaths",140
+"2992","Maryland","Deaths",3917
+"2993","Massachusetts","Deaths",9373
+"2994","Michigan","Deaths",7028
+"2995","Minnesota","Deaths",2046
+"2996","Mississippi","Deaths",2894
+"2997","Missouri","Deaths",2075
+"2998","Montana","Deaths",170
+"2999","Nebraska","Deaths",483
+"3000","Nevada","Deaths",1573
+"3001","New Hampshire","Deaths",438
+"3002","New Jersey","Deaths",16097
+"3003","New Mexico","Deaths",865
+"3004","New York","Deaths",32708
+"3005","North Carolina","Deaths",3427
+"3006","North Dakota","Deaths",222
+"3007","Northern Mariana Islands","Deaths",2
+"3008","Ohio","Deaths",4734
+"3009","Oklahoma","Deaths",993
+"3010","Oregon","Deaths",545
+"3011","Pennsylvania","Deaths",8157
+"3012","Puerto Rico","Deaths",635
+"3013","Rhode Island","Deaths",1107
+"3014","South Carolina","Deaths",3297
+"3015","South Dakota","Deaths",216
+"3016","Tennessee","Deaths",2326
+"3017","Texas","Deaths",15637
+"3018","Utah","Deaths",448
+"3019","Vermont","Deaths",58
+"3020","Virgin Islands","Deaths",19
+"3021","Virginia","Deaths",3136
+"3022","Washington","Deaths",2193
+"3023","West Virginia","Deaths",330
+"3024","Wisconsin","Deaths",1285
+"3025","Wyoming","Deaths",50
+"3026","Alabama","Deaths",2501
+"3027","Alaska","Deaths",48
+"3028","Arizona","Deaths",5623
+"3029","Arkansas","Deaths",1285
+"3030","California","Deaths",15588
+"3031","Colorado","Deaths",2047
+"3032","Connecticut","Deaths",4501
+"3033","Delaware","Deaths",633
+"3034","District of Columbia","Deaths",624
+"3035","Florida","Deaths",14021
+"3036","Georgia","Deaths",6758
+"3037","Guam","Deaths",40
+"3038","Hawaii","Deaths",130
+"3039","Idaho","Deaths",460
+"3040","Illinois","Deaths",8847
+"3041","Indiana","Deaths",3577
+"3042","Iowa","Deaths",1314
+"3043","Kansas","Deaths",634
+"3044","Kentucky","Deaths",1185
+"3045","Louisiana","Deaths",5444
+"3046","Maine","Deaths",140
+"3047","Maryland","Deaths",3925
+"3048","Massachusetts","Deaths",9391
+"3049","Michigan","Deaths",7044
+"3050","Minnesota","Deaths",2056
+"3051","Mississippi","Deaths",2911
+"3052","Missouri","Deaths",2118
+"3053","Montana","Deaths",171
+"3054","Nebraska","Deaths",484
+"3055","Nevada","Deaths",1583
+"3056","New Hampshire","Deaths",439
+"3057","New Jersey","Deaths",16103
+"3058","New Mexico","Deaths",870
+"3059","New York","Deaths",32713
+"3060","North Carolina","Deaths",3458
+"3061","North Dakota","Deaths",230
+"3062","Northern Mariana Islands","Deaths",2
+"3063","Ohio","Deaths",4740
+"3064","Oklahoma","Deaths",1004
+"3065","Oregon","Deaths",549
+"3066","Pennsylvania","Deaths",8177
+"3067","Puerto Rico","Deaths",642
+"3068","Rhode Island","Deaths",1107
+"3069","South Carolina","Deaths",3323
+"3070","South Dakota","Deaths",218
+"3071","Tennessee","Deaths",2347
+"3072","Texas","Deaths",15792
+"3073","Utah","Deaths",448
+"3074","Vermont","Deaths",58
+"3075","Virgin Islands","Deaths",19
+"3076","Virginia","Deaths",3144
+"3077","Washington","Deaths",2196
+"3078","West Virginia","Deaths",332
+"3079","Wisconsin","Deaths",1291
+"3080","Wyoming","Deaths",50
+"3081","Alabama","Deaths",2502
+"3082","Alaska","Deaths",52
+"3083","Arizona","Deaths",5623
+"3084","Arkansas","Deaths",1308
+"3085","California","Deaths",15608
+"3086","Colorado","Deaths",2048
+"3087","Connecticut","Deaths",4501
+"3088","Delaware","Deaths",633
+"3089","District of Columbia","Deaths",624
+"3090","Florida","Deaths",14031
+"3091","Georgia","Deaths",6789
+"3092","Guam","Deaths",40
+"3093","Hawaii","Deaths",131
+"3094","Idaho","Deaths",460
+"3095","Illinois","Deaths",8859
+"3096","Indiana","Deaths",3580
+"3097","Iowa","Deaths",1316
+"3098","Kansas","Deaths",636
+"3099","Kentucky","Deaths",1189
+"3100","Louisiana","Deaths",5465
+"3101","Maine","Deaths",140
+"3102","Maryland","Deaths",3935
+"3103","Massachusetts","Deaths",9404
+"3104","Michigan","Deaths",7044
+"3105","Minnesota","Deaths",2060
+"3106","Mississippi","Deaths",2919
+"3107","Missouri","Deaths",2117
+"3108","Montana","Deaths",173
+"3109","Nebraska","Deaths",485
+"3110","Nevada","Deaths",1585
+"3111","New Hampshire","Deaths",439
+"3112","New Jersey","Deaths",16106
+"3113","New Mexico","Deaths",870
+"3114","New York","Deaths",32722
+"3115","North Carolina","Deaths",3460
+"3116","North Dakota","Deaths",234
+"3117","Northern Mariana Islands","Deaths",2
+"3118","Ohio","Deaths",4741
+"3119","Oklahoma","Deaths",1006
+"3120","Oregon","Deaths",549
+"3121","Pennsylvania","Deaths",8180
+"3122","Puerto Rico","Deaths",644
+"3123","Rhode Island","Deaths",1107
+"3124","South Carolina","Deaths",3326
+"3125","South Dakota","Deaths",218
+"3126","Tennessee","Deaths",2350
+"3127","Texas","Deaths",15831
+"3128","Utah","Deaths",453
+"3129","Vermont","Deaths",58
+"3130","Virgin Islands","Deaths",19
+"3131","Virginia","Deaths",3159
+"3132","Washington","Deaths",2196
+"3133","West Virginia","Deaths",334
+"3134","Wisconsin","Deaths",1291
+"3135","Wyoming","Deaths",50
+"3136","Alabama","Deaths",2501
+"3137","Alaska","Deaths",52
+"3138","Arizona","Deaths",5624
+"3139","Arkansas","Deaths",1329
+"3140","California","Deaths",15641
+"3141","Colorado","Deaths",2052
+"3142","Connecticut","Deaths",4503
+"3143","Delaware","Deaths",634
+"3144","District of Columbia","Deaths",624
+"3145","Florida","Deaths",14036
+"3146","Georgia","Deaths",6803
+"3147","Guam","Deaths",40
+"3148","Hawaii","Deaths",131
+"3149","Idaho","Deaths",460
+"3150","Illinois","Deaths",8877
+"3151","Indiana","Deaths",3591
+"3152","Iowa","Deaths",1324
+"3153","Kansas","Deaths",641
+"3154","Kentucky","Deaths",1195
+"3155","Louisiana","Deaths",5480
+"3156","Maine","Deaths",140
+"3157","Maryland","Deaths",3938
+"3158","Massachusetts","Deaths",9415
+"3159","Michigan","Deaths",7052
+"3160","Minnesota","Deaths",2067
+"3161","Mississippi","Deaths",2921
+"3162","Missouri","Deaths",2132
+"3163","Montana","Deaths",174
+"3164","Nebraska","Deaths",487
+"3165","Nevada","Deaths",1586
+"3166","New Hampshire","Deaths",439
+"3167","New Jersey","Deaths",16107
+"3168","New Mexico","Deaths",873
+"3169","New York","Deaths",32737
+"3170","North Carolina","Deaths",3469
+"3171","North Dakota","Deaths",237
+"3172","Northern Mariana Islands","Deaths",2
+"3173","Ohio","Deaths",4746
+"3174","Oklahoma","Deaths",1007
+"3175","Oregon","Deaths",549
+"3176","Pennsylvania","Deaths",8181
+"3177","Puerto Rico","Deaths",648
+"3178","Rhode Island","Deaths",1110
+"3179","South Carolina","Deaths",3337
+"3180","South Dakota","Deaths",218
+"3181","Tennessee","Deaths",2362
+"3182","Texas","Deaths",15898
+"3183","Utah","Deaths",453
+"3184","Vermont","Deaths",58
+"3185","Virgin Islands","Deaths",20
+"3186","Virginia","Deaths",3172
+"3187","Washington","Deaths",2199
+"3188","West Virginia","Deaths",337
+"3189","Wisconsin","Deaths",1293
+"3190","Wyoming","Deaths",50
+"3191","Alabama","Deaths",2517
+"3192","Alaska","Deaths",52
+"3193","Arizona","Deaths",5632
+"3194","Arkansas","Deaths",1350
+"3195","California","Deaths",15791
+"3196","Colorado","Deaths",2058
+"3197","Connecticut","Deaths",4505
+"3198","Delaware","Deaths",635
+"3199","District of Columbia","Deaths",626
+"3200","Florida","Deaths",14142
+"3201","Georgia","Deaths",6836
+"3202","Guam","Deaths",48
+"3203","Hawaii","Deaths",133
+"3204","Idaho","Deaths",466
+"3205","Illinois","Deaths",8901
+"3206","Indiana","Deaths",3612
+"3207","Iowa","Deaths",1341
+"3208","Kansas","Deaths",650
+"3209","Kentucky","Deaths",1205
+"3210","Louisiana","Deaths",5490
+"3211","Maine","Deaths",141
+"3212","Maryland","Deaths",3946
+"3213","Massachusetts","Deaths",9423
+"3214","Michigan","Deaths",7073
+"3215","Minnesota","Deaths",2072
+"3216","Mississippi","Deaths",2957
+"3217","Missouri","Deaths",2148
+"3218","Montana","Deaths",177
+"3219","Nebraska","Deaths",493
+"3220","Nevada","Deaths",1594
+"3221","New Hampshire","Deaths",439
+"3222","New Jersey","Deaths",16117
+"3223","New Mexico","Deaths",875
+"3224","New York","Deaths",32743
+"3225","North Carolina","Deaths",3511
+"3226","North Dakota","Deaths",242
+"3227","Northern Mariana Islands","Deaths",2
+"3228","Ohio","Deaths",4783
+"3229","Oklahoma","Deaths",1018
+"3230","Oregon","Deaths",555
+"3231","Pennsylvania","Deaths",8196
+"3232","Puerto Rico","Deaths",654
+"3233","Rhode Island","Deaths",1113
+"3234","South Carolina","Deaths",3359
+"3235","South Dakota","Deaths",223
+"3236","Tennessee","Deaths",2393
+"3237","Texas","Deaths",15994
+"3238","Utah","Deaths",457
+"3239","Vermont","Deaths",58
+"3240","Virgin Islands","Deaths",20
+"3241","Virginia","Deaths",3187
+"3242","Washington","Deaths",2218
+"3243","West Virginia","Deaths",345
+"3244","Wisconsin","Deaths",1312
+"3245","Wyoming","Deaths",50
+"3246","Alabama","Deaths",2540
+"3247","Alaska","Deaths",52
+"3248","Arizona","Deaths",5654
+"3249","Arkansas","Deaths",1369
+"3250","California","Deaths",15898
+"3251","Colorado","Deaths",2061
+"3252","Connecticut","Deaths",4508
+"3253","Delaware","Deaths",636
+"3254","District of Columbia","Deaths",627
+"3255","Florida","Deaths",14316
+"3256","Georgia","Deaths",6861
+"3257","Guam","Deaths",50
+"3258","Hawaii","Deaths",135
+"3259","Idaho","Deaths",469
+"3260","Illinois","Deaths",8935
+"3261","Indiana","Deaths",3632
+"3262","Iowa","Deaths",1358
+"3263","Kansas","Deaths",678
+"3264","Kentucky","Deaths",1208
+"3265","Louisiana","Deaths",5511
+"3266","Maine","Deaths",141
+"3267","Maryland","Deaths",3949
+"3268","Massachusetts","Deaths",9456
+"3269","Michigan","Deaths",7084
+"3270","Minnesota","Deaths",2089
+"3271","Mississippi","Deaths",2969
+"3272","Missouri","Deaths",2157
+"3273","Montana","Deaths",180
+"3274","Nebraska","Deaths",493
+"3275","Nevada","Deaths",1600
+"3276","New Hampshire","Deaths",439
+"3277","New Jersey","Deaths",16122
+"3278","New Mexico","Deaths",877
+"3279","New York","Deaths",32757
+"3280","North Carolina","Deaths",3565
+"3281","North Dakota","Deaths",250
+"3282","Northern Mariana Islands","Deaths",2
+"3283","Ohio","Deaths",4804
+"3284","Oklahoma","Deaths",1031
+"3285","Oregon","Deaths",560
+"3286","Pennsylvania","Deaths",8216
+"3287","Puerto Rico","Deaths",661
+"3288","Rhode Island","Deaths",1114
+"3289","South Carolina","Deaths",3378
+"3290","South Dakota","Deaths",223
+"3291","Tennessee","Deaths",2429
+"3292","Texas","Deaths",16102
+"3293","Utah","Deaths",460
+"3294","Vermont","Deaths",58
+"3295","Virgin Islands","Deaths",20
+"3296","Virginia","Deaths",3208
+"3297","Washington","Deaths",2222
+"3298","West Virginia","Deaths",350
+"3299","Wisconsin","Deaths",1338
+"3300","Wyoming","Deaths",50

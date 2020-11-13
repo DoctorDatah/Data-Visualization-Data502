@@ -1,0 +1,32 @@
+{
+    "id": "BF488109",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1605033934667.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "expression": "crime_df",
+        "caption": "crime_df",
+        "totalObservations": "35",
+        "displayedObservations": "35",
+        "variables": "22",
+        "cacheKey": "7719BF37",
+        "object": "crime_df",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=crime_df&cache_key=7719BF37&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7954892334483841568,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605033934667,
+    "read_only": false,
+    "read_only_alternatives": []
+}

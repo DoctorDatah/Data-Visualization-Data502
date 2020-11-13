@@ -1,0 +1,661 @@
+"","Area","variable","Value"
+"1","United States Total6, 7, 8, 9","Violent_Crime_Rate",4
+"2","Northeast6","Violent_Crime_Rate",-1.2
+"3","New England6","Violent_Crime_Rate",-1.2
+"4","     Connecticut","Violent_Crime_Rate",2.3
+"5","     Maine","Violent_Crime_Rate",-4.5
+"6","     Massachusetts","Violent_Crime_Rate",-2.9
+"7","     New Hampshire","Violent_Crime_Rate",-2
+"8","     Rhode Island6","Violent_Crime_Rate",-1.6
+"9","     Vermont","Violent_Crime_Rate",32.4
+"10","Middle Atlantic6","Violent_Crime_Rate",-1.2
+"11","     New Jersey","Violent_Crime_Rate",-4.2
+"12","     New York6","Violent_Crime_Rate",-1.1
+"13","     Pennsylvania","Violent_Crime_Rate",0.2
+"14","Midwest6","Violent_Crime_Rate",5.9
+"15","East North Central6","Violent_Crime_Rate",7.1
+"16","     Illinois","Violent_Crime_Rate",12.3
+"17","     Indiana6","Violent_Crime_Rate",5.8
+"18","     Michigan","Violent_Crime_Rate",9.3
+"19","     Ohio6","Violent_Crime_Rate",1.5
+"20","     Wisconsin6","Violent_Crime_Rate",0.7
+"21","West North Central6","Violent_Crime_Rate",2.9
+"22","     Iowa","Violent_Crime_Rate",5.7
+"23","     Kansas","Violent_Crime_Rate",-3.7
+"24","     Minnesota","Violent_Crime_Rate",0.6
+"25","     Missouri","Violent_Crime_Rate",4.5
+"26","     Nebraska6","Violent_Crime_Rate",7.4
+"27","     North Dakota","Violent_Crime_Rate",-2.4
+"28","     South Dakota6","Violent_Crime_Rate",9.7
+"29","South6, 7 ,8","Violent_Crime_Rate",3.5
+"30","South Atlantic6, 7, 8 ","Violent_Crime_Rate",0.9
+"31","     Delaware","Violent_Crime_Rate",1.8
+"32","     District of Columbia7","Violent_Crime_Rate",-3.8
+"33","     Florida","Violent_Crime_Rate",-5.3
+"34","     Georgia8","Violent_Crime_Rate",5.4
+"35","     Maryland","Violent_Crime_Rate",0.8
+"36","     North Carolina6","Violent_Crime_Rate",8.7
+"37","     South Carolina","Violent_Crime_Rate",1.8
+"38","     Virginia","Violent_Crime_Rate",9.6
+"39","     West Virginia","Violent_Crime_Rate",2.5
+"40","East South Central6","Violent_Crime_Rate",5.9
+"41","     Alabama","Violent_Crime_Rate",12.8
+"42","     Kentucky","Violent_Crime_Rate",4.3
+"43","     Mississippi6","Violent_Crime_Rate",2.4
+"44","     Tennessee","Violent_Crime_Rate",3.1
+"45","West South Central6","Violent_Crime_Rate",6.3
+"46","     Arkansas","Violent_Crime_Rate",4.4
+"47","     Louisiana","Violent_Crime_Rate",5.2
+"48","     Oklahoma6","Violent_Crime_Rate",5.4
+"49","     Texas","Violent_Crime_Rate",6.9
+"50","West6","Violent_Crime_Rate",6.3
+"51","Mountain6","Violent_Crime_Rate",8.3
+"52","     Arizona","Violent_Crime_Rate",16.5
+"53","     Colorado","Violent_Crime_Rate",9.4
+"54","     Idaho","Violent_Crime_Rate",7.9
+"55","     Montana","Violent_Crime_Rate",5.3
+"56","     Nevada","Violent_Crime_Rate",-0.9
+"57","     New Mexico6","Violent_Crime_Rate",6.9
+"58","     Utah","Violent_Crime_Rate",3.8
+"59","     Wyoming","Violent_Crime_Rate",10
+"60","Pacific6","Violent_Crime_Rate",5.3
+"61","     Alaska","Violent_Crime_Rate",10.7
+"62","     California","Violent_Crime_Rate",4.7
+"63","     Hawaii","Violent_Crime_Rate",25.1
+"64","     Oregon6","Violent_Crime_Rate",1.4
+"65","     Washington6","Violent_Crime_Rate",7.4
+"66","Puerto Rico9 ","Violent_Crime_Rate",0.2
+"67","United States Total6, 7, 8, 9","Murder_Rate",8.6
+"68","Northeast6","Murder_Rate",-0.6
+"69","New England6","Murder_Rate",-10.4
+"70","     Connecticut","Murder_Rate",-32.8
+"71","     Maine","Murder_Rate",-13
+"72","     Massachusetts","Murder_Rate",2.3
+"73","     New Hampshire","Murder_Rate",13.3
+"74","     Rhode Island6","Murder_Rate",-6.5
+"75","     Vermont","Murder_Rate",40
+"76","Middle Atlantic6","Murder_Rate",1.3
+"77","     New Jersey","Murder_Rate",2.5
+"78","     New York6","Murder_Rate",2.8
+"79","     Pennsylvania","Murder_Rate",-0.6
+"80","Midwest6","Murder_Rate",13.5
+"81","East North Central6","Murder_Rate",20.4
+"82","     Illinois","Murder_Rate",39.8
+"83","     Indiana6","Murder_Rate",18.6
+"84","     Michigan","Murder_Rate",2.2
+"85","     Ohio6","Murder_Rate",25.3
+"86","     Wisconsin6","Murder_Rate",-4.6
+"87","West North Central6","Murder_Rate",-4.2
+"88","     Iowa","Murder_Rate",-2.7
+"89","     Kansas","Murder_Rate",-11.9
+"90","     Minnesota","Murder_Rate",-24.1
+"91","     Missouri","Murder_Rate",6.8
+"92","     Nebraska6","Murder_Rate",-21
+"93","     North Dakota","Murder_Rate",-28.6
+"94","     South Dakota6","Murder_Rate",-18.2
+"95","South6, 7 ,8","Murder_Rate",9.1
+"96","South Atlantic6, 7, 8 ","Murder_Rate",6.6
+"97","     Delaware","Murder_Rate",-9.7
+"98","     District of Columbia7","Murder_Rate",-14.2
+"99","     Florida","Murder_Rate",6.7
+"100","     Georgia8","Murder_Rate",9.5
+"101","     Maryland","Murder_Rate",-10.6
+"102","     North Carolina6","Murder_Rate",31.1
+"103","     South Carolina","Murder_Rate",-10.1
+"104","     Virginia","Murder_Rate",24.1
+"105","     West Virginia","Murder_Rate",-4.7
+"106","East South Central6","Murder_Rate",12.4
+"107","     Alabama","Murder_Rate",17
+"108","     Kentucky","Murder_Rate",18.7
+"109","     Mississippi6","Murder_Rate",-5.9
+"110","     Tennessee","Murder_Rate",16.3
+"111","West South Central6","Murder_Rate",11.4
+"112","     Arkansas","Murder_Rate",14.3
+"113","     Louisiana","Murder_Rate",12.6
+"114","     Oklahoma6","Murder_Rate",2.1
+"115","     Texas","Murder_Rate",12.2
+"116","West6","Murder_Rate",8
+"117","Mountain6","Murder_Rate",22.6
+"118","     Arizona","Murder_Rate",24.2
+"119","     Colorado","Murder_Rate",17.9
+"120","     Idaho","Murder_Rate",53.1
+"121","     Montana","Murder_Rate",-5.3
+"122","     Nevada","Murder_Rate",25.8
+"123","     New Mexico6","Murder_Rate",18.8
+"124","     Utah","Murder_Rate",26.3
+"125","     Wyoming","Murder_Rate",25
+"126","Pacific6","Murder_Rate",2.1
+"127","     Alaska","Murder_Rate",-11.9
+"128","     California","Murder_Rate",3.7
+"129","     Hawaii","Murder_Rate",20.7
+"130","     Oregon6","Murder_Rate",2.7
+"131","     Washington6","Murder_Rate",-10.6
+"132","Puerto Rico9 ","Murder_Rate",16.3
+"133","United States Total6, 7, 8, 9","Rape_Revised_Rate",3.5
+"134","Northeast6","Rape_Revised_Rate",1.4
+"135","New England6","Rape_Revised_Rate",-2.1
+"136","     Connecticut","Rape_Revised_Rate",-4.4
+"137","     Maine","Rape_Revised_Rate",-10.6
+"138","     Massachusetts","Rape_Revised_Rate",2.2
+"139","     New Hampshire","Rape_Revised_Rate",-9.6
+"140","     Rhode Island6","Rape_Revised_Rate",-5.4
+"141","     Vermont","Rape_Revised_Rate",18.7
+"142","Middle Atlantic6","Rape_Revised_Rate",2.8
+"143","     New Jersey","Rape_Revised_Rate",5.8
+"144","     New York6","Rape_Revised_Rate",1.9
+"145","     Pennsylvania","Rape_Revised_Rate",3.1
+"146","Midwest6","Rape_Revised_Rate",1.9
+"147","East North Central6","Rape_Revised_Rate",3.9
+"148","     Illinois","Rape_Revised_Rate",-0.4
+"149","     Indiana6","Rape_Revised_Rate",4.8
+"150","     Michigan","Rape_Revised_Rate",6.2
+"151","     Ohio6","Rape_Revised_Rate",2.7
+"152","     Wisconsin6","Rape_Revised_Rate",9.6
+"153","West North Central6","Rape_Revised_Rate",-2.6
+"154","     Iowa","Rape_Revised_Rate",3.5
+"155","     Kansas","Rape_Revised_Rate",-22.1
+"156","     Minnesota","Rape_Revised_Rate",1.2
+"157","     Missouri","Rape_Revised_Rate",-0.7
+"158","     Nebraska6","Rape_Revised_Rate",12.3
+"159","     North Dakota","Rape_Revised_Rate",-12.5
+"160","     South Dakota6","Rape_Revised_Rate",1.8
+"161","South6, 7 ,8","Rape_Revised_Rate",4.2
+"162","South Atlantic6, 7, 8 ","Rape_Revised_Rate",3.3
+"163","     Delaware","Rape_Revised_Rate",-14.7
+"164","     District of Columbia7","Rape_Revised_Rate",7.7
+"165","     Florida","Rape_Revised_Rate",0.6
+"166","     Georgia8","Rape_Revised_Rate",7.7
+"167","     Maryland","Rape_Revised_Rate",2.3
+"168","     North Carolina6","Rape_Revised_Rate",10
+"169","     South Carolina","Rape_Revised_Rate",-2.1
+"170","     Virginia","Rape_Revised_Rate",9.5
+"171","     West Virginia","Rape_Revised_Rate",-7.5
+"172","East South Central6","Rape_Revised_Rate",-1.2
+"173","     Alabama","Rape_Revised_Rate",-5.9
+"174","     Kentucky","Rape_Revised_Rate",-0.2
+"175","     Mississippi6","Rape_Revised_Rate",10.3
+"176","     Tennessee","Rape_Revised_Rate",-3.1
+"177","West South Central6","Rape_Revised_Rate",7.5
+"178","     Arkansas","Rape_Revised_Rate",6.7
+"179","     Louisiana","Rape_Revised_Rate",4.8
+"180","     Oklahoma6","Rape_Revised_Rate",4.4
+"181","     Texas","Rape_Revised_Rate",8.5
+"182","West6","Rape_Revised_Rate",5.3
+"183","Mountain6","Rape_Revised_Rate",1.5
+"184","     Arizona","Rape_Revised_Rate",5.8
+"185","     Colorado","Rape_Revised_Rate",6.8
+"186","     Idaho","Rape_Revised_Rate",2.3
+"187","     Montana","Rape_Revised_Rate",1
+"188","     Nevada","Rape_Revised_Rate",2.7
+"189","     New Mexico6","Rape_Revised_Rate",-8.2
+"190","     Utah","Rape_Revised_Rate",-10.8
+"191","     Wyoming","Rape_Revised_Rate",19.9
+"192","Pacific6","Rape_Revised_Rate",8
+"193","     Alaska","Rape_Revised_Rate",17
+"194","     California","Rape_Revised_Rate",7
+"195","     Hawaii","Rape_Revised_Rate",15.1
+"196","     Oregon6","Rape_Revised_Rate",4.3
+"197","     Washington6","Rape_Revised_Rate",10.8
+"198","Puerto Rico9 ","Rape_Revised_Rate",2.4
+"199","United States Total6, 7, 8, 9","Rape_Legacy_Rate",4.9
+"200","Northeast6","Rape_Legacy_Rate",2.6
+"201","New England6","Rape_Legacy_Rate",-1.4
+"202","     Connecticut","Rape_Legacy_Rate",-4.1
+"203","     Maine","Rape_Legacy_Rate",-11
+"204","     Massachusetts","Rape_Legacy_Rate",3.5
+"205","     New Hampshire","Rape_Legacy_Rate",-9.6
+"206","     Rhode Island6","Rape_Legacy_Rate",-4.1
+"207","     Vermont","Rape_Legacy_Rate",19.2
+"208","Middle Atlantic6","Rape_Legacy_Rate",4.1
+"209","     New Jersey","Rape_Legacy_Rate",6.9
+"210","     New York6","Rape_Legacy_Rate",3.5
+"211","     Pennsylvania","Rape_Legacy_Rate",4.1
+"212","Midwest6","Rape_Legacy_Rate",3.1
+"213","East North Central6","Rape_Legacy_Rate",4.8
+"214","     Illinois","Rape_Legacy_Rate",0.9
+"215","     Indiana6","Rape_Legacy_Rate",5.4
+"216","     Michigan","Rape_Legacy_Rate",6.9
+"217","     Ohio6","Rape_Legacy_Rate",3.8
+"218","     Wisconsin6","Rape_Legacy_Rate",10.1
+"219","West North Central6","Rape_Legacy_Rate",-0.9
+"220","     Iowa","Rape_Legacy_Rate",5.1
+"221","     Kansas","Rape_Legacy_Rate",-20.8
+"222","     Minnesota","Rape_Legacy_Rate",3.1
+"223","     Missouri","Rape_Legacy_Rate",1.4
+"224","     Nebraska6","Rape_Legacy_Rate",13.9
+"225","     North Dakota","Rape_Legacy_Rate",-10.2
+"226","     South Dakota6","Rape_Legacy_Rate",3.3
+"227","South6, 7 ,8","Rape_Legacy_Rate",5.6
+"228","South Atlantic6, 7, 8 ","Rape_Legacy_Rate",4.8
+"229","     Delaware","Rape_Legacy_Rate",-14
+"230","     District of Columbia7","Rape_Legacy_Rate",9.9
+"231","     Florida","Rape_Legacy_Rate",2.4
+"232","     Georgia8","Rape_Legacy_Rate",7.9
+"233","     Maryland","Rape_Legacy_Rate",4.7
+"234","     North Carolina6","Rape_Legacy_Rate",10.6
+"235","     South Carolina","Rape_Legacy_Rate",-0.3
+"236","     Virginia","Rape_Legacy_Rate",11.2
+"237","     West Virginia","Rape_Legacy_Rate",-5.1
+"238","East South Central6","Rape_Legacy_Rate",-0.8
+"239","     Alabama","Rape_Legacy_Rate",-4.4
+"240","     Kentucky","Rape_Legacy_Rate",0.8
+"241","     Mississippi6","Rape_Legacy_Rate",6.3
+"242","     Tennessee","Rape_Legacy_Rate",-2
+"243","West South Central6","Rape_Legacy_Rate",9.3
+"244","     Arkansas","Rape_Legacy_Rate",8.4
+"245","     Louisiana","Rape_Legacy_Rate",6.6
+"246","     Oklahoma6","Rape_Legacy_Rate",6.4
+"247","     Texas","Rape_Legacy_Rate",10.3
+"248","West6","Rape_Legacy_Rate",6.8
+"249","Mountain6","Rape_Legacy_Rate",2.8
+"250","     Arizona","Rape_Legacy_Rate",8.1
+"251","     Colorado","Rape_Legacy_Rate",8.1
+"252","     Idaho","Rape_Legacy_Rate",4.1
+"253","     Montana","Rape_Legacy_Rate",2.2
+"254","     Nevada","Rape_Legacy_Rate",4.9
+"255","     New Mexico6","Rape_Legacy_Rate",-8.3
+"256","     Utah","Rape_Legacy_Rate",-10.5
+"257","     Wyoming","Rape_Legacy_Rate",21
+"258","Pacific6","Rape_Legacy_Rate",9.6
+"259","     Alaska","Rape_Legacy_Rate",16.8
+"260","     California","Rape_Legacy_Rate",8.7
+"261","     Hawaii","Rape_Legacy_Rate",17
+"262","     Oregon6","Rape_Legacy_Rate",5.7
+"263","     Washington6","Rape_Legacy_Rate",12.6
+"264","Puerto Rico9 ","Rape_Legacy_Rate",4.1
+"265","United States Total6, 7, 8, 9","Robbery_Rate",1.2
+"266","Northeast6","Robbery_Rate",-5.6
+"267","New England6","Robbery_Rate",-2.3
+"268","     Connecticut","Robbery_Rate",-7.6
+"269","     Maine","Robbery_Rate",-14.5
+"270","     Massachusetts","Robbery_Rate",1.9
+"271","     New Hampshire","Robbery_Rate",-10.1
+"272","     Rhode Island6","Robbery_Rate",-1.3
+"273","     Vermont","Robbery_Rate",1
+"274","Middle Atlantic6","Robbery_Rate",-6.3
+"275","     New Jersey","Robbery_Rate",-7.7
+"276","     New York6","Robbery_Rate",-6.5
+"277","     Pennsylvania","Robbery_Rate",-4.9
+"278","Midwest6","Robbery_Rate",2.9
+"279","East North Central6","Robbery_Rate",3.6
+"280","     Illinois","Robbery_Rate",18.4
+"281","     Indiana6","Robbery_Rate",3.5
+"282","     Michigan","Robbery_Rate",-8.9
+"283","     Ohio6","Robbery_Rate",-0.7
+"284","     Wisconsin6","Robbery_Rate",-10.1
+"285","West North Central6","Robbery_Rate",0.8
+"286","     Iowa","Robbery_Rate",9.3
+"287","     Kansas","Robbery_Rate",-8.3
+"288","     Minnesota","Robbery_Rate",-1.1
+"289","     Missouri","Robbery_Rate",2.9
+"290","     Nebraska6","Robbery_Rate",-4.8
+"291","     North Dakota","Robbery_Rate",13.8
+"292","     South Dakota6","Robbery_Rate",26.5
+"293","South6, 7 ,8","Robbery_Rate",1.3
+"294","South Atlantic6, 7, 8 ","Robbery_Rate",-0.6
+"295","     Delaware","Robbery_Rate",9.6
+"296","     District of Columbia7","Robbery_Rate",-7.1
+"297","     Florida","Robbery_Rate",-4.6
+"298","     Georgia8","Robbery_Rate",-2.7
+"299","     Maryland","Robbery_Rate",1.8
+"300","     North Carolina6","Robbery_Rate",5.8
+"301","     South Carolina","Robbery_Rate",2.2
+"302","     Virginia","Robbery_Rate",7.7
+"303","     West Virginia","Robbery_Rate",-8
+"304","East South Central6","Robbery_Rate",3
+"305","     Alabama","Robbery_Rate",1.6
+"306","     Kentucky","Robbery_Rate",1.7
+"307","     Mississippi6","Robbery_Rate",3.7
+"308","     Tennessee","Robbery_Rate",4.2
+"309","West South Central6","Robbery_Rate",3.6
+"310","     Arkansas","Robbery_Rate",0.1
+"311","     Louisiana","Robbery_Rate",0.3
+"312","     Oklahoma6","Robbery_Rate",4.8
+"313","     Texas","Robbery_Rate",4.4
+"314","West6","Robbery_Rate",4.5
+"315","Mountain6","Robbery_Rate",7.4
+"316","     Arizona","Robbery_Rate",10.9
+"317","     Colorado","Robbery_Rate",6.4
+"318","     Idaho","Robbery_Rate",11.5
+"319","     Montana","Robbery_Rate",26.7
+"320","     Nevada","Robbery_Rate",0.8
+"321","     New Mexico6","Robbery_Rate",10.1
+"322","     Utah","Robbery_Rate",16
+"323","     Wyoming","Robbery_Rate",0
+"324","Pacific6","Robbery_Rate",3.6
+"325","     Alaska","Robbery_Rate",11.7
+"326","     California","Robbery_Rate",3.6
+"327","     Hawaii","Robbery_Rate",-8.4
+"328","     Oregon6","Robbery_Rate",5.3
+"329","     Washington6","Robbery_Rate",3.7
+"330","Puerto Rico9 ","Robbery_Rate",-21.4
+"331","United States Total6, 7, 8, 9","Aggravated_Assault_Rate",5.1
+"332","Northeast6","Aggravated_Assault_Rate",0.7
+"333","New England6","Aggravated_Assault_Rate",-0.6
+"334","     Connecticut","Aggravated_Assault_Rate",11.7
+"335","     Maine","Aggravated_Assault_Rate",2
+"336","     Massachusetts","Aggravated_Assault_Rate",-4.9
+"337","     New Hampshire","Aggravated_Assault_Rate",3.4
+"338","     Rhode Island6","Aggravated_Assault_Rate",-0.5
+"339","     Vermont","Aggravated_Assault_Rate",43.4
+"340","Middle Atlantic6","Aggravated_Assault_Rate",1.1
+"341","     New Jersey","Aggravated_Assault_Rate",-2.7
+"342","     New York6","Aggravated_Assault_Rate",1.3
+"343","     Pennsylvania","Aggravated_Assault_Rate",2.7
+"344","Midwest6","Aggravated_Assault_Rate",7.8
+"345","East North Central6","Aggravated_Assault_Rate",9.3
+"346","     Illinois","Aggravated_Assault_Rate",10.5
+"347","     Indiana6","Aggravated_Assault_Rate",6.7
+"348","     Michigan","Aggravated_Assault_Rate",15.5
+"349","     Ohio6","Aggravated_Assault_Rate",2
+"350","     Wisconsin6","Aggravated_Assault_Rate",4.8
+"351","West North Central6","Aggravated_Assault_Rate",4.7
+"352","     Iowa","Aggravated_Assault_Rate",5.6
+"353","     Kansas","Aggravated_Assault_Rate",1.5
+"354","     Minnesota","Aggravated_Assault_Rate",1.7
+"355","     Missouri","Aggravated_Assault_Rate",5.5
+"356","     Nebraska6","Aggravated_Assault_Rate",10.4
+"357","     North Dakota","Aggravated_Assault_Rate",-0.9
+"358","     South Dakota6","Aggravated_Assault_Rate",10.1
+"359","South6, 7 ,8","Aggravated_Assault_Rate",4.2
+"360","South Atlantic6, 7, 8 ","Aggravated_Assault_Rate",1.1
+"361","     Delaware","Aggravated_Assault_Rate",0.8
+"362","     District of Columbia7","Aggravated_Assault_Rate",-1.8
+"363","     Florida","Aggravated_Assault_Rate",-6.4
+"364","     Georgia8","Aggravated_Assault_Rate",9.5
+"365","     Maryland","Aggravated_Assault_Rate",0.3
+"366","     North Carolina6","Aggravated_Assault_Rate",9.2
+"367","     South Carolina","Aggravated_Assault_Rate",2.6
+"368","     Virginia","Aggravated_Assault_Rate",9.8
+"369","     West Virginia","Aggravated_Assault_Rate",5.8
+"370","East South Central6","Aggravated_Assault_Rate",7.7
+"371","     Alabama","Aggravated_Assault_Rate",18.3
+"372","     Kentucky","Aggravated_Assault_Rate",7
+"373","     Mississippi6","Aggravated_Assault_Rate",0.1
+"374","     Tennessee","Aggravated_Assault_Rate",3.3
+"375","West South Central6","Aggravated_Assault_Rate",7
+"376","     Arkansas","Aggravated_Assault_Rate",4.6
+"377","     Louisiana","Aggravated_Assault_Rate",6.5
+"378","     Oklahoma6","Aggravated_Assault_Rate",5.8
+"379","     Texas","Aggravated_Assault_Rate",7.8
+"380","West6","Aggravated_Assault_Rate",7.2
+"381","Mountain6","Aggravated_Assault_Rate",9.9
+"382","     Arizona","Aggravated_Assault_Rate",20.1
+"383","     Colorado","Aggravated_Assault_Rate",11.1
+"384","     Idaho","Aggravated_Assault_Rate",8.5
+"385","     Montana","Aggravated_Assault_Rate",4.7
+"386","     Nevada","Aggravated_Assault_Rate",-2.7
+"387","     New Mexico6","Aggravated_Assault_Rate",8.6
+"388","     Utah","Aggravated_Assault_Rate",5.6
+"389","     Wyoming","Aggravated_Assault_Rate",8.7
+"390","Pacific6","Aggravated_Assault_Rate",5.9
+"391","     Alaska","Aggravated_Assault_Rate",9.3
+"392","     California","Aggravated_Assault_Rate",5.1
+"393","     Hawaii","Aggravated_Assault_Rate",47.4
+"394","     Oregon6","Aggravated_Assault_Rate",-0.6
+"395","     Washington6","Aggravated_Assault_Rate",8.6
+"396","Puerto Rico9 ","Aggravated_Assault_Rate",27.9
+"397","United States Total6, 7, 8, 9","Property_Crime_Rate",-1.3
+"398","Northeast6","Property_Crime_Rate",-4.4
+"399","New England6","Property_Crime_Rate",-5.2
+"400","     Connecticut","Property_Crime_Rate",-1.4
+"401","     Maine","Property_Crime_Rate",-10.1
+"402","     Massachusetts","Property_Crime_Rate",-7.2
+"403","     New Hampshire","Property_Crime_Rate",-13.9
+"404","     Rhode Island6","Property_Crime_Rate",0.1
+"405","     Vermont","Property_Crime_Rate",17
+"406","Middle Atlantic6","Property_Crime_Rate",-4.1
+"407","     New Jersey","Property_Crime_Rate",-5.2
+"408","     New York6","Property_Crime_Rate",-3.8
+"409","     Pennsylvania","Property_Crime_Rate",-3.9
+"410","Midwest6","Property_Crime_Rate",-0.7
+"411","East North Central6","Property_Crime_Rate",-0.3
+"412","     Illinois","Property_Crime_Rate",2.1
+"413","     Indiana6","Property_Crime_Rate",-0.1
+"414","     Michigan","Property_Crime_Rate",-0.8
+"415","     Ohio6","Property_Crime_Rate",-1.4
+"416","     Wisconsin6","Property_Crime_Rate",-2.1
+"417","West North Central6","Property_Crime_Rate",-1.5
+"418","     Iowa","Property_Crime_Rate",1.1
+"419","     Kansas","Property_Crime_Rate",-2.1
+"420","     Minnesota","Property_Crime_Rate",-3.5
+"421","     Missouri","Property_Crime_Rate",-1.9
+"422","     Nebraska6","Property_Crime_Rate",1.3
+"423","     North Dakota","Property_Crime_Rate",-1.8
+"424","     South Dakota6","Property_Crime_Rate",2.4
+"425","South6, 7 ,8","Property_Crime_Rate",-1.5
+"426","South Atlantic6, 7, 8 ","Property_Crime_Rate",-1.6
+"427","     Delaware","Property_Crime_Rate",3.1
+"428","     District of Columbia7","Property_Crime_Rate",4
+"429","     Florida","Property_Crime_Rate",-2.9
+"430","     Georgia8","Property_Crime_Rate",-2
+"431","     Maryland","Property_Crime_Rate",-3.6
+"432","     North Carolina6","Property_Crime_Rate",0.7
+"433","     South Carolina","Property_Crime_Rate",-1.2
+"434","     Virginia","Property_Crime_Rate",-0.9
+"435","     West Virginia","Property_Crime_Rate",-3.1
+"436","East South Central6","Property_Crime_Rate",-2.1
+"437","     Alabama","Property_Crime_Rate",-1
+"438","     Kentucky","Property_Crime_Rate",-0.4
+"439","     Mississippi6","Property_Crime_Rate",-3.6
+"440","     Tennessee","Property_Crime_Rate",-3.2
+"441","West South Central6","Property_Crime_Rate",-0.9
+"442","     Arkansas","Property_Crime_Rate",0.3
+"443","     Louisiana","Property_Crime_Rate",-2.1
+"444","     Oklahoma6","Property_Crime_Rate",2.6
+"445","     Texas","Property_Crime_Rate",-1.3
+"446","West6","Property_Crime_Rate",-0.1
+"447","Mountain6","Property_Crime_Rate",1.9
+"448","     Arizona","Property_Crime_Rate",-0.4
+"449","     Colorado","Property_Crime_Rate",5.4
+"450","     Idaho","Property_Crime_Rate",1.5
+"451","     Montana","Property_Crime_Rate",2.6
+"452","     Nevada","Property_Crime_Rate",-1.4
+"453","     New Mexico6","Property_Crime_Rate",6.1
+"454","     Utah","Property_Crime_Rate",0.3
+"455","     Wyoming","Property_Crime_Rate",2.8
+"456","Pacific6","Property_Crime_Rate",-1
+"457","     Alaska","Property_Crime_Rate",19.6
+"458","     California","Property_Crime_Rate",-2.2
+"459","     Hawaii","Property_Crime_Rate",-5.8
+"460","     Oregon6","Property_Crime_Rate",1.3
+"461","     Washington6","Property_Crime_Rate",2.1
+"462","Puerto Rico9 ","Property_Crime_Rate",-6.7
+"463","United States Total6, 7, 8, 9","Burglary_Rate",-4.6
+"464","Northeast6","Burglary_Rate",-9.6
+"465","New England6","Burglary_Rate",-9
+"466","     Connecticut","Burglary_Rate",-2.3
+"467","     Maine","Burglary_Rate",-14.7
+"468","     Massachusetts","Burglary_Rate",-12.1
+"469","     New Hampshire","Burglary_Rate",-14.9
+"470","     Rhode Island6","Burglary_Rate",-3.8
+"471","     Vermont","Burglary_Rate",3.4
+"472","Middle Atlantic6","Burglary_Rate",-9.9
+"473","     New Jersey","Burglary_Rate",-9.6
+"474","     New York6","Burglary_Rate",-9.7
+"475","     Pennsylvania","Burglary_Rate",-10.2
+"476","Midwest6","Burglary_Rate",-2.4
+"477","East North Central6","Burglary_Rate",-1.5
+"478","     Illinois","Burglary_Rate",2.4
+"479","     Indiana6","Burglary_Rate",-0.9
+"480","     Michigan","Burglary_Rate",-2
+"481","     Ohio6","Burglary_Rate",-4.4
+"482","     Wisconsin6","Burglary_Rate",-0.9
+"483","West North Central6","Burglary_Rate",-4.4
+"484","     Iowa","Burglary_Rate",0.4
+"485","     Kansas","Burglary_Rate",-8
+"486","     Minnesota","Burglary_Rate",-3.6
+"487","     Missouri","Burglary_Rate",-6.8
+"488","     Nebraska6","Burglary_Rate",NA
+"489","     North Dakota","Burglary_Rate",-1.6
+"490","     South Dakota6","Burglary_Rate",1
+"491","South6, 7 ,8","Burglary_Rate",-4.7
+"492","South Atlantic6, 7, 8 ","Burglary_Rate",-6.3
+"493","     Delaware","Burglary_Rate",4.7
+"494","     District of Columbia7","Burglary_Rate",-20.5
+"495","     Florida","Burglary_Rate",-8.2
+"496","     Georgia8","Burglary_Rate",-7.1
+"497","     Maryland","Burglary_Rate",-6.6
+"498","     North Carolina6","Burglary_Rate",-3.6
+"499","     South Carolina","Burglary_Rate",-5.6
+"500","     Virginia","Burglary_Rate",-7.1
+"501","     West Virginia","Burglary_Rate",-1.8
+"502","East South Central6","Burglary_Rate",-6.4
+"503","     Alabama","Burglary_Rate",-3.4
+"504","     Kentucky","Burglary_Rate",-7.5
+"505","     Mississippi6","Burglary_Rate",-6.8
+"506","     Tennessee","Burglary_Rate",-7.9
+"507","West South Central6","Burglary_Rate",-1.6
+"508","     Arkansas","Burglary_Rate",4
+"509","     Louisiana","Burglary_Rate",-2.2
+"510","     Oklahoma6","Burglary_Rate",1.1
+"511","     Texas","Burglary_Rate",-2.8
+"512","West6","Burglary_Rate",-3.9
+"513","Mountain6","Burglary_Rate",-2.1
+"514","     Arizona","Burglary_Rate",-0.7
+"515","     Colorado","Burglary_Rate",1.8
+"516","     Idaho","Burglary_Rate",3.2
+"517","     Montana","Burglary_Rate",1.2
+"518","     Nevada","Burglary_Rate",-15.7
+"519","     New Mexico6","Burglary_Rate",1.2
+"520","     Utah","Burglary_Rate",1.8
+"521","     Wyoming","Burglary_Rate",0.5
+"522","Pacific6","Burglary_Rate",-4.7
+"523","     Alaska","Burglary_Rate",15.4
+"524","     California","Burglary_Rate",-4.6
+"525","     Hawaii","Burglary_Rate",-11.6
+"526","     Oregon6","Burglary_Rate",-9
+"527","     Washington6","Burglary_Rate",-3.8
+"528","Puerto Rico9 ","Burglary_Rate",-9.8
+"529","United States Total6, 7, 8, 9","Larceny_Rate",-1.5
+"530","Northeast6","Larceny_Rate",-3.7
+"531","New England6","Larceny_Rate",-5.2
+"532","     Connecticut","Larceny_Rate",-2.8
+"533","     Maine","Larceny_Rate",-9.1
+"534","     Massachusetts","Larceny_Rate",-6.6
+"535","     New Hampshire","Larceny_Rate",-14.2
+"536","     Rhode Island6","Larceny_Rate",-0.3
+"537","     Vermont","Larceny_Rate",20.2
+"538","Middle Atlantic6","Larceny_Rate",-3.2
+"539","     New Jersey","Larceny_Rate",-4.2
+"540","     New York6","Larceny_Rate",-2.7
+"541","     Pennsylvania","Larceny_Rate",-3.3
+"542","Midwest6","Larceny_Rate",-1.2
+"543","East North Central6","Larceny_Rate",-0.8
+"544","     Illinois","Larceny_Rate",1
+"545","     Indiana6","Larceny_Rate",-0.8
+"546","     Michigan","Larceny_Rate",-1.6
+"547","     Ohio6","Larceny_Rate",-1.6
+"548","     Wisconsin6","Larceny_Rate",-1.5
+"549","West North Central6","Larceny_Rate",-2
+"550","     Iowa","Larceny_Rate",0.1
+"551","     Kansas","Larceny_Rate",-0.6
+"552","     Minnesota","Larceny_Rate",-4.5
+"553","     Missouri","Larceny_Rate",-1.8
+"554","     Nebraska6","Larceny_Rate",-0.5
+"555","     North Dakota","Larceny_Rate",-3.9
+"556","     South Dakota6","Larceny_Rate",0.5
+"557","South6, 7 ,8","Larceny_Rate",-1.3
+"558","South Atlantic6, 7, 8 ","Larceny_Rate",-0.9
+"559","     Delaware","Larceny_Rate",1.2
+"560","     District of Columbia7","Larceny_Rate",8.6
+"561","     Florida","Larceny_Rate",-2.4
+"562","     Georgia8","Larceny_Rate",-0.5
+"563","     Maryland","Larceny_Rate",-1.7
+"564","     North Carolina6","Larceny_Rate",1.4
+"565","     South Carolina","Larceny_Rate",-0.6
+"566","     Virginia","Larceny_Rate",-1.1
+"567","     West Virginia","Larceny_Rate",-4.8
+"568","East South Central6","Larceny_Rate",-2.4
+"569","     Alabama","Larceny_Rate",-1.6
+"570","     Kentucky","Larceny_Rate",-1
+"571","     Mississippi6","Larceny_Rate",-2.5
+"572","     Tennessee","Larceny_Rate",-3.5
+"573","West South Central6","Larceny_Rate",-1.4
+"574","     Arkansas","Larceny_Rate",-2.9
+"575","     Louisiana","Larceny_Rate",-2.8
+"576","     Oklahoma6","Larceny_Rate",1.5
+"577","     Texas","Larceny_Rate",-1.3
+"578","West6","Larceny_Rate",-0.9
+"579","Mountain6","Larceny_Rate",0.8
+"580","     Arizona","Larceny_Rate",-1.4
+"581","     Colorado","Larceny_Rate",3.6
+"582","     Idaho","Larceny_Rate",0.2
+"583","     Montana","Larceny_Rate",1.6
+"584","     Nevada","Larceny_Rate",1.4
+"585","     New Mexico6","Larceny_Rate",2.8
+"586","     Utah","Larceny_Rate",-0.9
+"587","     Wyoming","Larceny_Rate",1
+"588","Pacific6","Larceny_Rate",-1.7
+"589","     Alaska","Larceny_Rate",16.5
+"590","     California","Larceny_Rate",-3
+"591","     Hawaii","Larceny_Rate",-6.2
+"592","     Oregon6","Larceny_Rate",0.9
+"593","     Washington6","Larceny_Rate",1
+"594","Puerto Rico9 ","Larceny_Rate",-5.4
+"595","United States Total6, 7, 8, 9","Motor_Rate",7.4
+"596","Northeast6","Motor_Rate",0.9
+"597","New England6","Motor_Rate",5.2
+"598","     Connecticut","Motor_Rate",10.6
+"599","     Maine","Motor_Rate",-4.8
+"600","     Massachusetts","Motor_Rate",0.2
+"601","     New Hampshire","Motor_Rate",-2.7
+"602","     Rhode Island6","Motor_Rate",15.2
+"603","     Vermont","Motor_Rate",43.9
+"604","Middle Atlantic6","Motor_Rate",-1.1
+"605","     New Jersey","Motor_Rate",-3.8
+"606","     New York6","Motor_Rate",-5.8
+"607","     Pennsylvania","Motor_Rate",7.5
+"608","Midwest6","Motor_Rate",8.1
+"609","East North Central6","Motor_Rate",7.7
+"610","     Illinois","Motor_Rate",12.5
+"611","     Indiana6","Motor_Rate",8.8
+"612","     Michigan","Motor_Rate",7.3
+"613","     Ohio6","Motor_Rate",13.1
+"614","     Wisconsin6","Motor_Rate",-9.4
+"615","West North Central6","Motor_Rate",8.8
+"616","     Iowa","Motor_Rate",13.7
+"617","     Kansas","Motor_Rate",-1
+"618","     Minnesota","Motor_Rate",9.4
+"619","     Missouri","Motor_Rate",7.6
+"620","     Nebraska6","Motor_Rate",17.9
+"621","     North Dakota","Motor_Rate",13.3
+"622","     South Dakota6","Motor_Rate",25.8
+"623","South6, 7 ,8","Motor_Rate",6.2
+"624","South Atlantic6, 7, 8 ","Motor_Rate",4.2
+"625","     Delaware","Motor_Rate",27.4
+"626","     District of Columbia7","Motor_Rate",-8.9
+"627","     Florida","Motor_Rate",6.1
+"628","     Georgia8","Motor_Rate",-1.3
+"629","     Maryland","Motor_Rate",-11.8
+"630","     North Carolina6","Motor_Rate",14
+"631","     South Carolina","Motor_Rate",6.2
+"632","     Virginia","Motor_Rate",19.4
+"633","     West Virginia","Motor_Rate",11.9
+"634","East South Central6","Motor_Rate",15.6
+"635","     Alabama","Motor_Rate",13.4
+"636","     Kentucky","Motor_Rate",25.5
+"637","     Mississippi6","Motor_Rate",1.2
+"638","     Tennessee","Motor_Rate",16
+"639","West South Central6","Motor_Rate",5.4
+"640","     Arkansas","Motor_Rate",22.9
+"641","     Louisiana","Motor_Rate",6.2
+"642","     Oklahoma6","Motor_Rate",14.7
+"643","     Texas","Motor_Rate",2.3
+"644","West6","Motor_Rate",9.3
+"645","Mountain6","Motor_Rate",17.4
+"646","     Arizona","Motor_Rate",9.7
+"647","     Colorado","Motor_Rate",22.4
+"648","     Idaho","Motor_Rate",11
+"649","     Montana","Motor_Rate",13.2
+"650","     Nevada","Motor_Rate",16.1
+"651","     New Mexico6","Motor_Rate",35.9
+"652","     Utah","Motor_Rate",7.6
+"653","     Wyoming","Motor_Rate",35.1
+"654","Pacific6","Motor_Rate",6.8
+"655","     Alaska","Motor_Rate",49.4
+"656","     California","Motor_Rate",3.4
+"657","     Hawaii","Motor_Rate",4
+"658","     Oregon6","Motor_Rate",23.3
+"659","     Washington6","Motor_Rate",19.7
+"660","Puerto Rico9 ","Motor_Rate",-7
