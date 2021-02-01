@@ -1,0 +1,32 @@
+{
+    "id": "D1B34781",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607538102563.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "expression": "NJ_data_from_melted",
+        "caption": "NJ_data_from_melted",
+        "totalObservations": 628,
+        "displayedObservations": 628,
+        "variables": 4,
+        "cacheKey": "7A4EF0FF",
+        "object": "NJ_data_from_melted",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=NJ_data_from_melted&cache_key=7A4EF0FF&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 101,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607538102563,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -5,7 +5,7 @@ library(reshape2)
 library(xlsx)
 #############################################################################
 
-data <-read.csv("C:/Users/Malik/Documents/GitHub/Data-Visualization-Data502/exam1part2/exam 1 dataset.csv",
+data <-read.csv("C:/Users/Malik/Documents/GitHub/Data-Visualization-Data502/Midterm Exam/exam 1 dataset.csv",
                 na.strings = c("-"))
 # Structure of data
 str(data)

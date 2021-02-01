@@ -16,6 +16,11 @@ summary(data)
 head(data)
 
 # Doing on whole data
+data$SampleTime[1] # "6/1/2018 0:00"
+time_stmp_POSIXlt = strptime(x = "6/30/2018 23:00", format="%m/%d/%Y %H:%M")
+class(time_stmp_POSIXlt)
+time_stmp_POSIXct = as.POSIXct(time_stmp_POSIXlt)
+class(time_stmp_POSIXct)
 
 data$SampleTime = as.POSIXct( strptime(x = as.character(data$SampleTime), format="%m/%d/%Y %H:%M"))
 data$date = data$SampleTime

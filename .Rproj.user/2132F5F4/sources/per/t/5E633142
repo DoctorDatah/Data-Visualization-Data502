@@ -1,0 +1,32 @@
+{
+    "id": "5E633142",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607538137133.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "expression": "other_states_data_from_m",
+        "caption": "other_states_data_from_m",
+        "totalObservations": 6280,
+        "displayedObservations": 6280,
+        "variables": 4,
+        "cacheKey": "26CBFD78",
+        "object": "other_states_data_from_m",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=other_states_data_from_m&cache_key=26CBFD78&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607537794,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607538137133,
+    "read_only": false,
+    "read_only_alternatives": []
+}

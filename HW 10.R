@@ -50,6 +50,9 @@ colnames(all_crimes)<-c("year","population","crimes","crime_total_value","crime_
 
 ######
 rob = subset(all_crimes, all_crimes$crimes %in% c("robbery"))
+head(all_crimes,2)
+rob2 = all_crimes[all_crimes["crimes"] == "robbery",]
+
 bul =  subset(all_crimes, all_crimes$crimes %in% c("bulgarly"))
 
 rob = rob[,c(1,2,4,6)]

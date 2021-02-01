@@ -1,0 +1,32 @@
+{
+    "id": "263A9AB2",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607538355867.0,
+    "source_on_save": false,
+    "relative_order": 16,
+    "properties": {
+        "expression": "NJ_mutated_data",
+        "caption": "NJ_mutated_data",
+        "totalObservations": 628,
+        "displayedObservations": 628,
+        "variables": 7,
+        "cacheKey": "8BC10E9C",
+        "object": "NJ_mutated_data",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=NJ_mutated_data&cache_key=8BC10E9C&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1565903290168,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607538355867,
+    "read_only": false,
+    "read_only_alternatives": []
+}
